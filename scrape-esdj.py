@@ -3,6 +3,8 @@ from bs4 import BeautifulSoup
 
 readme = open("C:\\Users\ocari\\scrape-test\\README.md", "w+")
 
+readme.write("# Scraping Early Stage Design Jobs for internships\n\n")
+
 readme.write("| Title | Company | Location | Role | Country | Link |\n")
 readme.write("| --- | --- | --- | --- | --- | --- |\n")
 
@@ -49,7 +51,7 @@ while page_num in range(10):
         readme.write("| " + role.text + " ")
 
         readme.write("| " + country.text + " ")
-        readme.write("| https://www.earlystagedesignjobs.com" + link + " |\n")
+        readme.write("| [Link](https://www.earlystagedesignjobs.com" + link + ") |\n")
         #readme.write("\n")
 
     #readme.write("Page: " + str(page_num))
