@@ -2,7 +2,10 @@ import requests
 from bs4 import BeautifulSoup
 
 readme = open("C:\\Users\ocari\\scrape-test\\README.md", "w+")
+
 readme.write("| Title | Company | Location | Role | Country | Link |\n")
+readme.write("| --- | --- | --- | --- | --- | --- |\n")
+
 page_num = 1
 
 while page_num in range(10):
@@ -46,8 +49,8 @@ while page_num in range(10):
         readme.write("| " + role.text + " ")
 
         readme.write("| " + country.text + " ")
-        readme.write("| https://www.earlystagedesignjobs.com" + link + " |")
-        readme.write("\n")
+        readme.write("| https://www.earlystagedesignjobs.com" + link + " |\n")
+        #readme.write("\n")
 
     #readme.write("Page: " + str(page_num))
 
