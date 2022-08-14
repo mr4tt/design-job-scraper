@@ -9,29 +9,26 @@ urls = ["https://www.earlystagedesignjobs.com/",
 page_num = 1
 
 for url in urls:
-
+    # gets each page
     page = requests.get(url)
 
     soup = BeautifulSoup(page.content, "html.parser")
     results = soup.find("div", class_="w-dyn-items")
+
+    # gets each job
     jobs = results.find_all("div", role="listitem")
 
+    # filters for intern positions only 
     intern_jobs = results.find_all(
         "div", 
         class_="caption1-3 captiongrey", 
         string=lambda text: "intern" in text.lower()
         )
 
+    # grabs the grandparents of caption1-3 so we can loop thru properly
     intern_job_elements = set(
         x.parent.parent.parent.parent for x in intern_jobs
     )
-
-    #soup.select('div:has(> p.example:contains(TRUE))')
-    #inner_jobs = results.find_all("div", class_="solojobimpdetails")
-    #print(results.prettify())
-
-    #for x in inner_jobs:
-    #    print(x, end="\n")
 
     for c, v in enumerate(intern_job_elements):
         title = v.find("h4", class_="h4-666")
@@ -40,8 +37,7 @@ for url in urls:
         role = v.find("div", class_="solojobimpdetails").findChildren()[4]
         country = v.find("div", class_="solojobimpdetails").findChildren()[6]
         link = v.find("a")["href"]
-        #location = v.select("div", class_="caption1-3 captiongrey:nth-child(1)")
-        #test = v.select("div", class_="caption1-3 captiongrey:nth-child(2)")
+
         print(title.text, end="\n")
         print(company.text, end="\n")
         print(location.text, end="\n")
@@ -49,6 +45,7 @@ for url in urls:
         print(country.text, end="\n")
         print("https://www.earlystagedesignjobs.com" + link)
         print()
+        
     print("Page: ", str(page_num))
     page_num+=1
     
