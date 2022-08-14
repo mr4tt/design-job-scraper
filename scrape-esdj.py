@@ -5,7 +5,7 @@ readme = open("C:\\Users\ocari\\scrape-test\\README.md", "w+")
 
 readme.write("# Scraping Early Stage Design Jobs for internships\n\n")
 
-readme.write("| Title | Company | Location | Role | Country | Link |\n")
+readme.write("| Title | Company | Location | Date Added | Country | Link |\n")
 readme.write("| --- | --- | --- | --- | --- | --- |\n")
 
 page_num = 1
@@ -38,9 +38,12 @@ while page_num in range(10):
         title = v.find("h4", class_="h4-666")
         company = v.find("h3", class_="h3-white")
         location = v.find("div", class_="solojobimpdetails").findChildren()[0]
-        role = v.find("div", class_="solojobimpdetails").findChildren()[4]
+        date_added = v.find("div", class_="solojobdetailswrap").findChildren("div", class_="hordivjob")[3]#.findChildren()[2]
         country = v.find("div", class_="solojobimpdetails").findChildren()[6]
         link = v.find("a")["href"]
+
+        print(date_added.text)
+
 
         readme.write("| " + title.text + " ")
 
@@ -48,13 +51,13 @@ while page_num in range(10):
 
         readme.write("| " + location.text + " ")
 
-        readme.write("| " + role.text + " ")
+        readme.write("| " + date_added.text + " ")
 
         readme.write("| " + country.text + " ")
         readme.write("| [Link](https://www.earlystagedesignjobs.com" + link + ") |\n")
         #readme.write("\n")
 
-    #readme.write("Page: " + str(page_num))
+    print("Page: " + str(page_num))
 
     page_num+=1
     
