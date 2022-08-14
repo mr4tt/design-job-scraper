@@ -1,14 +1,11 @@
 import requests
 from bs4 import BeautifulSoup
 
-
-urls = ["https://www.earlystagedesignjobs.com/", 
-        "https://www.earlystagedesignjobs.com/?d844da9d_page=2",
-        "https://www.earlystagedesignjobs.com/?d844da9d_page=3"]
-
 page_num = 1
 
-for url in urls:
+while page_num in range(10):
+    url = "https://www.earlystagedesignjobs.com/" if page_num == 1 else "https://www.earlystagedesignjobs.com/?d844da9d_page=" + str(page_num)
+    
     # gets each page
     page = requests.get(url)
 
@@ -45,7 +42,7 @@ for url in urls:
         print(country.text, end="\n")
         print("https://www.earlystagedesignjobs.com" + link)
         print()
-        
+
     print("Page: ", str(page_num))
     page_num+=1
     
