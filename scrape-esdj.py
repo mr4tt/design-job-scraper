@@ -1,6 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 
+readme = open("C:\\Users\ocari\\scrape-test\\README.md", "w+")
+readme.write("| Title | Company | Location | Role | Country | Link |\n")
 page_num = 1
 
 while page_num in range(10):
@@ -35,14 +37,20 @@ while page_num in range(10):
         country = v.find("div", class_="solojobimpdetails").findChildren()[6]
         link = v.find("a")["href"]
 
-        print(title.text, end="\n")
-        print(company.text, end="\n")
-        print(location.text, end="\n")
-        print(role.text, end="\n")
-        print(country.text, end="\n")
-        print("https://www.earlystagedesignjobs.com" + link)
-        print()
+        readme.write("| " + title.text + " ")
 
-    print("Page: ", str(page_num))
+        readme.write("| " + company.text + " ")
+
+        readme.write("| " + location.text + " ")
+
+        readme.write("| " + role.text + " ")
+
+        readme.write("| " + country.text + " ")
+        readme.write("| https://www.earlystagedesignjobs.com" + link + " |")
+        readme.write("\n")
+
+    #readme.write("Page: " + str(page_num))
+
     page_num+=1
     
+readme.close()
