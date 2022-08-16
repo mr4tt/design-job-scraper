@@ -38,7 +38,7 @@ while page_num in range(10):
         title = v.find("h4", class_="h4-666")
         company = v.find("h3", class_="h3-white")
         location = v.find("div", class_="solojobimpdetails").findChildren()[0]
-        date_added = v.find("div", class_="solojobdetailswrap").findChildren("div", class_="hordivjob")[3]#.findChildren()[2]
+        date_added = v.find("div", class_="solojobdetailswrap").findChildren("div", class_="hordivjob")[3]
         country = v.find("div", class_="solojobimpdetails").findChildren()[6]
         link = v.find("a")["href"]
 
