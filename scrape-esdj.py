@@ -34,7 +34,7 @@ while page_num in range(10):
         x.parent.parent.parent.parent for x in intern_jobs
     )
 
-    for c, v in enumerate(intern_job_elements):
+    for v in intern_job_elements:
         title = v.find("h4", class_="h4-666")
         company = v.find("h3", class_="h3-white")
         location = v.find("div", class_="solojobimpdetails").findChildren()[0]
