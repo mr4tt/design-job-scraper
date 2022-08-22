@@ -45,11 +45,11 @@ while page_num in range(10):
         print(date_added.text)
 
 
-        readme.write("| " + title.text + " ")
+        readme.write(("| " + title.text + " ").replace("–","-"))
 
         readme.write("| " + company.text + " ")
 
-        readme.write("| " + location.text + " ")
+        readme.write(("| " + location.text + " ").replace("é","e"))
 
         readme.write("| " + date_added.text + " ")
 
