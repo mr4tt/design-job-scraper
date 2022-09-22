@@ -5,6 +5,8 @@ readme = open("C:\\Users\ocari\\scrape-test\\README.md", "w+")
 
 readme.write("# Scraping Early Stage Design Jobs for internships\n\n")
 
+readme.write("Link: https://www.earlystagedesignjobs.com/\n\n")
+
 readme.write("| Title | Company | Location | Date Added | Country | Link |\n")
 readme.write("| --- | --- | --- | --- | --- | --- |\n")
 
