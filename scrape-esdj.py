@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-readme = open("C:\\Users\ocari\\scrape-test\\README.md", "w+")
+readme = open("README.md", "w+")
 
 readme.write("# Scraping Early Stage Design Jobs for internships\n\n")
 
