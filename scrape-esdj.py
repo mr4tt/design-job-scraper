@@ -14,12 +14,21 @@ page_num = 1
 
 while page_num in range(10):
     url = "https://www.earlystagedesignjobs.com/" if page_num == 1 else "https://www.earlystagedesignjobs.com/?d844da9d_page=" + str(page_num)
-    
+
     # gets each page
     page = requests.get(url)
 
     soup = BeautifulSoup(page.content, "html.parser")
     results = soup.find("div", class_="w-dyn-items")
+    
+    # if page_num > 1:
+    #     empty = soup.find("div", class_="w-dyn-empty")
+    #     print(empty.getText())
+    #     if empty.getText() == "No items found.":
+    #         break
+    empty = soup.find("div", class_="w-dyn-empty")
+    if empty != None:
+        break
 
     # gets each job
     jobs = results.find_all("div", role="listitem")
