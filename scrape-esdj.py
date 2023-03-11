@@ -26,6 +26,7 @@ while page_num in range(10):
     #     print(empty.getText())
     #     if empty.getText() == "No items found.":
     #         break
+    
     empty = soup.find("div", class_="w-dyn-empty")
     if empty != None:
         break
@@ -41,11 +42,22 @@ while page_num in range(10):
         )
 
     # grabs the grandparents of caption1-3 so we can loop thru properly
-    intern_job_elements = set(
-        x.parent.parent.parent.parent for x in intern_jobs
-    )
+    intern_job_elements = [x.parent.parent.parent.parent for x in intern_jobs]
 
-    for v in intern_job_elements:
+    # removes duplicates 
+    def remove_duplicates(iterable):
+        seen = set()
+        result = []
+        for x in iterable:
+            if x in seen: continue
+            result.append(x)
+            seen.add(x)
+        return result
+    
+    # removes duplicates from intern job elements (using set unorders stuff)
+    unique_intern_job_elements = remove_duplicates(intern_job_elements)
+
+    for v in unique_intern_job_elements:
         title = v.find("h4", class_="h4-666")
         company = v.find("h3", class_="h3-white")
         location = v.find("div", class_="solojobimpdetails").findChildren()[0]
