@@ -1,6 +1,6 @@
-# Early Stage Design Jobs for internships
+# Scraping Early Stage Design Jobs for internships
 
-This repo scrapes https://www.earlystagedesignjobs.com/ and adds them into a list daily (if there's anything new). 
+Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | Link |
 | --- | --- | --- | --- | --- | --- |
