@@ -4,6 +4,15 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | Link |
 | --- | --- | --- | --- | --- | --- |
+| User Experience Accessibility Intern | Verily | South San Francisco, CA (On-site) | 2023-03-14 | US | [Link](https://www.earlystagedesignjobs.com/jobs/user-experience-accessibility-intern) |
+| INTERN UI / UX Designer App and Website | Samsung Electronics America | Bellevue, WA (Hybrid) | 2023-03-14 | US | [Link](https://www.earlystagedesignjobs.com/jobs/intern-ui-ux-designer-app-and-website) |
+| Copywriter (UX/Content/Marketing) Intern | Headspace Health | Remote (US) | 2023-03-14 | US | [Link](https://www.earlystagedesignjobs.com/jobs/copywriter-ux-content-marketing-intern) |
+| Design Intern | J5 | Calgary or Edmonton, AB | 2023-03-14 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/design-intern) |
+| US Intern, Design | Kyndryl | Columbia, MO or Austin, TX | 2023-03-14 | US | [Link](https://www.earlystagedesignjobs.com/jobs/us-intern-design) |
+| Design Operations Intern (Summer 2023) | Cloudflare | Remote (US) | 2023-03-14 | US | [Link](https://www.earlystagedesignjobs.com/jobs/design-operations-intern-summer-2023) |
+| Product Design Intern | LogicGate | Chicago, IL (Remote) | 2023-03-14 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-intern-4) |
+| Graphic Design Intern - Summer 2023 | BetterSleep by Ipnos | Montreal, QC (On-site) | 2023-03-14 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/graphic-design-intern-summer-2023) |
+| Junior Web Designer | Assinck | Scarborough, ON | 2023-03-14 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/junior-web-designer) |
 | Experience Consulting Design Intern - Summer 2023 | PwC | Hallandale Beach, FL (Remote) | 2023-03-13 | US | [Link](https://www.earlystagedesignjobs.com/jobs/experience-consulting-design-intern-summer-2023) |
 | Summer 2023 - Experience Design (UX/UI) Intern | GSD&M | Austin, TX (Hybrid) | 2023-03-13 | US | [Link](https://www.earlystagedesignjobs.com/jobs/summer-2023-experience-design-ux-ui-intern) |
 | Digital UI/UX Intern | AAA Northeast | Providence, RI | 2023-03-13 | US | [Link](https://www.earlystagedesignjobs.com/jobs/digital-ui-ux-intern) |
