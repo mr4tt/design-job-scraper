@@ -4,6 +4,13 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | Link |
 | --- | --- | --- | --- | --- | --- |
+| Product Design Intern | Madhive | New York, NY | 2023-03-16 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-intern-0) |
+| UX/UI Design Intern | Precisely | Remote (US) | 2023-03-16 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-design-intern-b) |
+| Product Management and User Experience Intern | Ridgeline International | Tysons Corner, VA (On-site) | 2023-03-16 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-management-and-user-experience-intern) |
+| 2023 Visual Design Intern - Mobile Platform Solutions | Samsung Research America (SRA) | Mountain View, CA (On-site) | 2023-03-16 | US | [Link](https://www.earlystagedesignjobs.com/jobs/2023-visual-design-intern-mobile-platform-solutions) |
+| UX/UI Design Intern | SPARK Business Works | Grand Rapids, MI (Hybrid) | 2023-03-16 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-design-intern) |
+| Junior Graphic Designer Student | OLG | Toronto, ON (Hybrid) | 2023-03-16 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/junior-graphic-designer-student) |
+| Product Designer Intern | Vial | San Francisco, CA (Remote) | 2023-03-16 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-designer-intern-8) |
 | UX Design Intern | ZOLL Medical Corporation | Pennsylvania, United States (On-site) | 2023-03-15 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-design-intern) |
 | User Experience Development Intern | Trihydro Corporation | Fort Collins, CO (On-site) | 2023-03-15 | US | [Link](https://www.earlystagedesignjobs.com/jobs/user-experience-development-intern) |
 | Visual Design Intern | Epsilon | Atlanta, GA (Hybrid) | 2023-03-15 | US | [Link](https://www.earlystagedesignjobs.com/jobs/visual-design-intern) |
