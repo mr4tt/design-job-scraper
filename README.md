@@ -4,6 +4,15 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | Link |
 | --- | --- | --- | --- | --- | --- |
+| UI Design Intern  | Tesla | Hawthorne, CA | 2023-03-17 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ui-design-intern) |
+| UX Research Intern | TuneIn | New York, NY or San Francisco, CA (Remote) | 2023-03-17 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-research-intern-4) |
+| Early Careers: Software Engineering and UX Design Intern | Aon |  Spokane, WA (Hybrid)  | 2023-03-17 | US | [Link](https://www.earlystagedesignjobs.com/jobs/early-careers-software-engineering-and-ux-design-intern) |
+| Graphic Design Intern - Summer 2023 | BetterSleep by Ipnos | Montreal, QC (On-site) | 2023-03-17 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/graphic-design-intern-summer-2023-9) |
+| UX Research Intern | Chegg | Santa Clara, CA (Hybrid) | 2023-03-17 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-research-intern-f) |
+| Learning Experience/ UX Design Internship | Ticketmaster | Scottsdale, AZ (On-site) | 2023-03-17 | US | [Link](https://www.earlystagedesignjobs.com/jobs/learning-experience-ux-design-internship) |
+| Product Design Intern | Suzy | New York, NY (Hybrid) | 2023-03-17 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-intern-a) |
+| Intern - UI/UX designer | Trudo | San Francisco | 2023-03-16 | US | [Link](https://www.earlystagedesignjobs.com/jobs/intern-ui-ux-designer) |
+| Service Design Intern | Headspace Health | Remote (US) | 2023-03-16 | US | [Link](https://www.earlystagedesignjobs.com/jobs/service-design-intern) |
 | Product Design Intern | Madhive | New York, NY | 2023-03-16 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-intern-0) |
 | UX/UI Design Intern | Precisely | Remote (US) | 2023-03-16 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-design-intern-b) |
 | Product Management and User Experience Intern | Ridgeline International | Tysons Corner, VA (On-site) | 2023-03-16 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-management-and-user-experience-intern) |
