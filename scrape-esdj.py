@@ -92,7 +92,7 @@ while page_num in range(10):
         readme.write("| " + date_added.text + " ")
 
         readme.write("| " + country.text + " ")
-        readme.write("| [Link](https://www.earlystagedesignjobs.com" + link + ") |\n")
+        readme.write("| [Link](https://www.earlystagedesignjobs.com" + link + ") ")
         readme.write("| [Link](" + job_link + ") |\n")
 
 
