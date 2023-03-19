@@ -7,8 +7,8 @@ readme.write("# Scraping Early Stage Design Jobs for internships\n\n")
 
 readme.write("Link: https://www.earlystagedesignjobs.com/\n\n")
 
-readme.write("| Title | Company | Location | Date Added | Country | Link |\n")
-readme.write("| --- | --- | --- | --- | --- | --- |\n")
+readme.write("| Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |\n")
+readme.write("| --- | --- | --- | --- | --- | --- | --- |\n")
 
 page_num = 1
 
@@ -17,8 +17,8 @@ while page_num in range(10):
 
     # gets each page
     page = requests.get(url)
-
     soup = BeautifulSoup(page.content, "html.parser")
+
     results = soup.find("div", class_="w-dyn-items")
     
     # if page_num > 1:
@@ -57,6 +57,21 @@ while page_num in range(10):
     # removes duplicates from intern job elements (using set unorders stuff)
     unique_intern_job_elements = remove_duplicates(intern_job_elements)
 
+    # find the actual job link 
+    def get_job_link(link):
+        # gets the page of the job
+        esdj_link = "https://www.earlystagedesignjobs.com" + link
+        esdj_page = requests.get(esdj_link)
+        soup2 = BeautifulSoup(esdj_page.content, "html.parser")
+
+        # use if there's multiple links 
+        # links = soup2.find_all('div', class_="jobbody")
+        # for x in links:
+        #     print(x.find("a")["href"])
+
+        # returns the job link 
+        return soup2.find("a",{"class":"button gotojobbutton w-button"}).get("href")
+
     for v in unique_intern_job_elements:
         title = v.find("h4", class_="h4-666")
         company = v.find("h3", class_="h3-white")
@@ -64,9 +79,9 @@ while page_num in range(10):
         date_added = v.find("div", class_="solojobdetailswrap").findChildren("div", class_="hordivjob")[3]
         country = v.find("div", class_="solojobimpdetails").findChildren()[6]
         link = v.find("a")["href"]
+        job_link = get_job_link(link)
 
         print(date_added.text)
-
 
         readme.write(("| " + title.text + " ").replace("–","-"))
 
@@ -78,7 +93,8 @@ while page_num in range(10):
 
         readme.write("| " + country.text + " ")
         readme.write("| [Link](https://www.earlystagedesignjobs.com" + link + ") |\n")
-        #readme.write("\n")
+        readme.write("| [Link](" + job_link + ") |\n")
+
 
     print("Page: " + str(page_num))
 
