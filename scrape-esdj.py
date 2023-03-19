@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 readme = open("README.md", "w+")
 
-readme.write("# Scraping Early Stage Design Jobs for internships\n\n")
+readme.write("# Scraping Early Stage Design Jobs for Internships\n\n")
 
 readme.write("Link: https://www.earlystagedesignjobs.com/\n\n")
 
