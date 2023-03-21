@@ -4,6 +4,11 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| Student Research Intern | Corgan | Dallas, TX (Hybrid) | 2023-03-20 | US | [Link](https://www.earlystagedesignjobs.com/jobs/student-research-intern) | [Link](https://campus-corgan.icims.com/jobs/2415/student-research-intern/job?mode=job&iis=Job+Posting&iisn=LinkedIn&mobile=false&width=1114&height=500&bga=true&needsRedirect=false&jan1offset=-420&jun1offset=-360) |
+| Product Design Intern - 4 Months Summer 2023 | Ceridian | St Petersburg, FL (On-site) | 2023-03-20 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-intern-4-months-summer-2023) | [Link](https://www.mydayforce.com/CandidatePortal/en-us/mydayforce/site/alljobs/Posting/View/46711) |
+| UX Design - Grad Intern | Myriad Genetics | Salt Lake City, UT | 2023-03-20 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-design-grad-intern) | [Link](https://ekgn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/2930) |
+| Visual Design Internship (Fall 2023) | Tesla | Hawthorne, CA | 2023-03-20 | US | [Link](https://www.earlystagedesignjobs.com/jobs/visual-design-internship-fall-2023) | [Link](https://www.tesla.com/careers/search/job/visual-design-internship-fall-2023-171895) |
+| Product Design Internship | Navan | Remote (US) | 2023-03-20 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-internship) | [Link](https://navan.com/careers/openings/4888634?gh_jid=4888634&gh_src=b13de4e21) |
 | UI Design Intern  | Tesla | Hawthorne, CA | 2023-03-17 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ui-design-intern) | [Link](https://www.tesla.com/careers/search/job/ui-design-intern-180490) |
 | UX Research Intern | TuneIn | New York, NY or San Francisco, CA (Remote) | 2023-03-17 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-research-intern-4) | [Link](https://jobs.lever.co/tunein/4076bc61-f874-4b2d-ab83-5e06e50d60d3) |
 | Early Careers: Software Engineering and UX Design Intern | Aon |  Spokane, WA (Hybrid)  | 2023-03-17 | US | [Link](https://www.earlystagedesignjobs.com/jobs/early-careers-software-engineering-and-ux-design-intern) | [Link](https://www.linkedin.com/jobs/view/3531352919) |
