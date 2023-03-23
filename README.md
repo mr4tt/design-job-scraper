@@ -1,4 +1,4 @@
-# Scraping Early Stage Design Jobs for internships
+# Scraping Early Stage Design Jobs for Internships
 
 Link: https://www.earlystagedesignjobs.com/
 
