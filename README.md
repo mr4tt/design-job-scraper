@@ -4,6 +4,11 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2023 XR Design Intern | Samsung Research America (SRA) | Mountain View, CA (On-site) | 2023-03-22 | US | [Link](https://www.earlystagedesignjobs.com/jobs/2023-xr-design-intern) | [Link](https://boards.greenhouse.io/samsungresearchamericainternship/jobs/6663737002) |
+| Undergraduate UX Design Intern | Chewy | Bellevue, WA or Boston, MA (On-site) | 2023-03-22 | US | [Link](https://www.earlystagedesignjobs.com/jobs/undergraduate-ux-design-intern) | [Link](https://careers.chewy.com/us/en/job/CHINUS4918530EXTERNALENUS/Undergraduate-UX-Design-Intern) |
+| Graphic Design Intern | Flatiron School  | Remote (US) | 2023-03-22 | US | [Link](https://www.earlystagedesignjobs.com/jobs/graphic-design-intern-d6) | [Link](https://boards.greenhouse.io/theflatironschool/jobs/4821998004) |
+| Product Design Intern Summer 2023 | Oshi Health | Remote (US) | 2023-03-22 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-intern-summer-2023-a) | [Link](https://oshihealth.applytojob.com/apply/qBOmOASE7T/Product-Design-Intern-Summer-2023) |
+| Design Intern (Remote - Located within the United States)  | Tidepool | Palo Alto, CA (Remote) | 2023-03-22 | US | [Link](https://www.earlystagedesignjobs.com/jobs/design-intern-remote-located-within-the-united-states) | [Link](https://jobs.smartrecruiters.com/Tidepool/743999894495988-design-intern-remote-located-within-the-united-states-) |
 | Web Designer | Write This Way | Ontario, Canada (Remote) | 2023-03-21 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/web-designer-1) | [Link](https://www.linkedin.com/jobs/view/3536727508) |
 | User Researcher Intern | Entertainment Partners | Burbank, CA (On-site) | 2023-03-21 | US | [Link](https://www.earlystagedesignjobs.com/jobs/user-researcher-intern) | [Link](https://eoko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/643?) |
 | User Experience (UX) Researcher Intern - 2023 (US) | Amazon | Seattle, WA (On-site) | 2023-03-21 | US | [Link](https://www.earlystagedesignjobs.com/jobs/user-experience-ux-researcher-intern-2023-us) | [Link](https://www.amazon.jobs/en/jobs/2141799/user-experience-ux-researcher-intern-2023-us?cmpid=SPLICX0248M) |
