@@ -4,6 +4,12 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| Content Design Intern (June 2023) | Cvent | Tysons Corner, VA (On-site) | 2023-03-24 | US | [Link](https://www.earlystagedesignjobs.com/jobs/content-design-intern-june-2023) | [Link](https://careers.cvent.com/jobs/3864?lang=en-us&iis=linkedin&iisn=linkedin) |
+| User Experience Intern | Catalog US | New York, NY (Hybrid) | 2023-03-24 | US | [Link](https://www.earlystagedesignjobs.com/jobs/user-experience-intern) | [Link](https://www.linkedin.com/jobs/view/3533349938) |
+| Product Design Internship - Summer 2023 | FanDuel | Atlanta, GA (Hybrid) | 2023-03-24 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-internship-summer-2023) | [Link](https://www.fanduel.careers/open-positions/product-design-internship-summer-2023-4618407-1?gh_jid=4618407) |
+| iOS UX/UI Intern | Blue Guardian | Remote (Canada) | 2023-03-24 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ios-ux-ui-intern) | [Link](https://www.linkedin.com/jobs/view/3536682834) |
+| UX Design - Intern | Equiliem | Skaneateles, NY (On-site) | 2023-03-24 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-design-intern-e) | [Link](https://portal.equiliem.com/portal/?a=vejdnwjr36p6v7ne68sh98ue6ff9cr01dc8938pt87zmt8ftk7eqskzxqd17tk9y&jobid=19290349#/jobs/19290349?compid=0&SearchString=&StatesString=&id=19290349&source=linkedin.com) |
+| Volunteer: UI/UX Designer Intern | OutWeGo | San Francisco Bay Area (Remote) | 2023-03-24 | US | [Link](https://www.earlystagedesignjobs.com/jobs/volunteer-ui-ux-designer-intern) | [Link](https://www.linkedin.com/jobs/view/3534443480/) |
 | UX Designer (Intern) | Chatham Financial | Kennett Square, PA | 2023-03-23 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-designer-intern-e) | [Link](https://www.indeed.com/viewjob?jk=3826c91ca48df1ac&tk=1gs66o0g6imhc801&from=serp&vjs=3) |
 | Intern - UX Research, Enablement Ops | Avalara | North Carolina, US (Remote) | 2023-03-23 | US | [Link](https://www.earlystagedesignjobs.com/jobs/intern-ux-research-enablement-ops) | [Link](https://www.indeed.com/viewjob?jk=fd2eed4692b83d27&tk=1gs66o0g6imhc801&from=serp&vjs=3) |
 | UX/UI Intern | DiscoverU Health | Remote (US) | 2023-03-23 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-intern) | [Link](https://www.indeed.com/viewjob?jk=b6025ac2722dc6df&tk=1gs66o0g6imhc801&from=serp&vjs=3) |
