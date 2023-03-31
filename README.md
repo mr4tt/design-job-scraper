@@ -4,6 +4,10 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| Graphic Design Intern (Paid Internship) | Customer Maps | Calgary, AB (Hybrid) | 2023-03-30 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/graphic-design-intern-paid-internship) | [Link](https://www.linkedin.com/jobs/view/3540179258/) |
+| User Experience Researcher Co-op/Intern | NOKIA | Ottawa, ON | 2023-03-30 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/user-experience-researcher-co-op-intern) | [Link](https://ca.indeed.com/viewjob?jk=382ef0eb18641cd4&tk=1gsnp50v0j5mb800&from=serp&vjs=3) |
+| Interface UX Designer Co-op/Intern | NOKIA | Ottawa, ON | 2023-03-30 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/interface-ux-designer-co-op-intern) | [Link](https://ca.indeed.com/viewjob?jk=96a5a72dcc051928&tk=1gsnp50v0j5mb800&from=serp&vjs=3) |
+| Summer Internship: Product Design | Uplight | Boulder, CO (On-site) | 2023-03-30 | US | [Link](https://www.earlystagedesignjobs.com/jobs/summer-internship-product-design) | [Link](https://jobs.jobvite.com/uplight/job/oU0PmfwP) |
 | User Experience (UX) Intern - Summer 2023 | Masonite | Tampa, FL (On-site) | 2023-03-29 | US | [Link](https://www.earlystagedesignjobs.com/jobs/user-experience-ux-intern-summer-2023) | [Link](https://www.linkedin.com/jobs/view/3546306291/) |
 | 2022 Intern Conversion: 2023 FT UX Design | Walmart | Sunnyvale, CA | 2023-03-29 | US | [Link](https://www.earlystagedesignjobs.com/jobs/2022-intern-conversion-2023-ft-ux-design) | [Link](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/XMLNAME-2022-Intern-Conversion--2023-FT-UX-Design_R-1399628?source=Job_Board_LinkedIn&_ccid=1679368561003lqqlgno4b) |
 | [Volunteer] UX Writer - Internship (USA) | Line | Remote (US) | 2023-03-29 | US | [Link](https://www.earlystagedesignjobs.com/jobs/volunteer-ux-writer-internship-usa) | [Link](https://wellfound.com/company/linefinancial/jobs/2620614-ux-writer-internship-usa) |
