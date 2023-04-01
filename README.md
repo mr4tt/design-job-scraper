@@ -4,6 +4,14 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| Design Internship | AppLovin | San Francisco Bay Area (On-site) | 2023-03-31 | US | [Link](https://www.earlystagedesignjobs.com/jobs/design-internship) | [Link](https://jobs.lever.co/applovin/a0a84640-7948-4fdf-b316-6349093e61f0) |
+| Summer Internship - UX Design Intern | Scaled Agile | Boulder, CO (Hybrid) | 2023-03-31 | US | [Link](https://www.earlystagedesignjobs.com/jobs/summer-internship-ux-design-intern) | [Link](https://www.linkedin.com/jobs/view/3549573364/) |
+| Design Internship Summer 2023 | Magnet Media | New York, NY | 2023-03-31 | US | [Link](https://www.earlystagedesignjobs.com/jobs/design-internship-summer-2023) | [Link](https://www.indeed.com/viewjob?jk=901faba451733395&tk=1gsqobcd3ioe0800&from=serp&vjs=3) |
+| Product/UX Design Intern | PulsePoint | Remote (US) | 2023-03-31 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-ux-design-intern) | [Link](https://jobs.jobvite.com/pulsepoint/job/oRqOmfwb?__jvst=Job%20Board&__jvsd=LinkedIn) |
+| UX UI Intern  | Schneider Electric | Andover, MA (On-site) | 2023-03-31 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-intern-0) | [Link](https://careers.se.com/global/jobs/50806?lang=en-us&iis=Job%20Board&iisn=linkedin&src=linkedin) |
+| Digital Design Intern | Bay Valley Tech | Modesto, CA | 2023-03-31 | US | [Link](https://www.earlystagedesignjobs.com/jobs/digital-design-intern) | [Link](https://www.indeed.com/viewjob?cmp=Bay-Valley-Tech&t=Digital+Design+Intern&jk=459ac0cddaea17f8&q=design+intern&vjs=3) |
+| Design Intern | Momofuku | New York, NY | 2023-03-31 | US | [Link](https://www.earlystagedesignjobs.com/jobs/design-intern-2) | [Link](https://www.indeed.com/viewjob?jk=2777656edfe7735d&tk=1gsqoagg62bhf000&from=serp&vjs=3) |
+| Product Design Intern | Air Liquide | Delaware | 2023-03-31 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-intern-6) | [Link](https://www.indeed.com/viewjob?jk=b4a772e59f7cca1e&from=serp&vjs=3) |
 | Graphic Design Intern (Paid Internship) | Customer Maps | Calgary, AB (Hybrid) | 2023-03-30 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/graphic-design-intern-paid-internship) | [Link](https://www.linkedin.com/jobs/view/3540179258/) |
 | User Experience Researcher Co-op/Intern | NOKIA | Ottawa, ON | 2023-03-30 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/user-experience-researcher-co-op-intern) | [Link](https://ca.indeed.com/viewjob?jk=382ef0eb18641cd4&tk=1gsnp50v0j5mb800&from=serp&vjs=3) |
 | Interface UX Designer Co-op/Intern | NOKIA | Ottawa, ON | 2023-03-30 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/interface-ux-designer-co-op-intern) | [Link](https://ca.indeed.com/viewjob?jk=96a5a72dcc051928&tk=1gsnp50v0j5mb800&from=serp&vjs=3) |
