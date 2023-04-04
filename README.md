@@ -4,6 +4,11 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| UX Designer Intern | Prifina | Remote (US) | 2023-04-03 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-designer-intern-58) | [Link](https://www.indeed.com/viewjob?cmp=Prifina&t=Ux+Designer+Intern&jk=9fe2a20c7f350129&q=ux+intern&vjs=3) |
+| Digital Design Intern | Lumanity | Parsippany, NJ | 2023-04-03 | US | [Link](https://www.earlystagedesignjobs.com/jobs/digital-design-intern-c) | [Link](https://uscareers-lumanity.icims.com/jobs/1284/digital-design-intern/job?mode=job&iis=Job+Board&iisn=LinkedIn) |
+| Intern - UX/UI Design | Safran | Brea, CA (On-site) | 2023-04-03 | US | [Link](https://www.earlystagedesignjobs.com/jobs/intern-ux-ui-design) | [Link](https://www.linkedin.com/jobs/view/3551387705/) |
+| UX UI Internship - Summer 2023 | UKG | Lowell, MA or Fort Lauderdale (On-site) | 2023-04-03 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-internship-summer-2023) | [Link](https://careers.ukg.com/careers/JobDetail/UX-UI-Internship-Summer-2023/44526) |
+| Innovation Lab UI/UX Design Intern | Graybar | Champaign, IL (On-site) | 2023-04-03 | US | [Link](https://www.earlystagedesignjobs.com/jobs/innovation-lab-ui-ux-design-intern) | [Link](https://graybar.wd1.myworkdayjobs.com/Careers/job/Champaign-IL/Innovation-Lab-UI-UX-Design-Intern_R231084-1) |
 | Design Internship | AppLovin | San Francisco Bay Area (On-site) | 2023-03-31 | US | [Link](https://www.earlystagedesignjobs.com/jobs/design-internship) | [Link](https://jobs.lever.co/applovin/a0a84640-7948-4fdf-b316-6349093e61f0) |
 | Summer Internship - UX Design Intern | Scaled Agile | Boulder, CO (Hybrid) | 2023-03-31 | US | [Link](https://www.earlystagedesignjobs.com/jobs/summer-internship-ux-design-intern) | [Link](https://www.linkedin.com/jobs/view/3549573364/) |
 | Design Internship Summer 2023 | Magnet Media | New York, NY | 2023-03-31 | US | [Link](https://www.earlystagedesignjobs.com/jobs/design-internship-summer-2023) | [Link](https://www.indeed.com/viewjob?jk=901faba451733395&tk=1gsqobcd3ioe0800&from=serp&vjs=3) |
