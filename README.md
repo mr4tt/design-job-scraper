@@ -4,6 +4,9 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| Intern | Yardi Systems | Oxnard, CA | 2023-04-25 | US | [Link](https://www.earlystagedesignjobs.com/jobs/intern) | [Link](https://www.indeed.com/viewjob?jk=ce7ea01e8f6cf01a&tk=1guqqhdqpi5da800&from=serp&vjs=3) |
+| UX Co-Op/Intern | Applied Research Solutions | Dayton, OH (Hybrid)  | 2023-04-25 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-co-op-intern) | [Link](https://recruiting.ultipro.com/APP1013ARSS/JobBoard/d7bd66ed-d867-48a4-879e-5b0f95b51ad5/OpportunityDetail?opportunityId=54232d77-8a30-44c6-b8e9-e4c73c87a6ac) |
+| Data Product Design Intern | MyDataProduct | Remote (US) | 2023-04-25 | US | [Link](https://www.earlystagedesignjobs.com/jobs/data-product-design-intern) | [Link](https://www.linkedin.com/jobs/view/3576474423/) |
 | Product Designer |  Northwestern Mutual | New York, NY (On-site) | 2023-04-24 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-designer-3d) | [Link](https://careers.northwesternmutual.com/corporate-careers/job/product-designer-new-york-ny-corporate-jr-37520/) |
 | UI/UX Intern | PRADCO Outdoor Brands | Birmingham, AL | 2023-04-24 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-intern-e) | [Link](https://www.indeed.com/viewjob?jk=e073d5091594d124&tk=1guisbdk4kp2c800&from=serp&vjs=3) |
 | Co-op Fall 2023: UX/ UI Designer | FANIQUE Group | Remote (Canada) | 2023-04-24 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/co-op-fall-2023-ux-ui-designer) | [Link](https://ca.indeed.com/viewjob?cmp=FANIQUE-Inc.&t=User+Interface+Designer&jk=e5e75938a24810f1&q=ux&vjs=3) |
@@ -120,7 +123,3 @@ Link: https://www.earlystagedesignjobs.com/
 | Intern - UX/UI Design | Safran | Brea, CA (On-site) | 2023-04-03 | US | [Link](https://www.earlystagedesignjobs.com/jobs/intern-ux-ui-design) | [Link](https://www.linkedin.com/jobs/view/3551387705/) |
 | UX UI Internship - Summer 2023 | UKG | Lowell, MA or Fort Lauderdale (On-site) | 2023-04-03 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-internship-summer-2023) | [Link](https://careers.ukg.com/careers/JobDetail/UX-UI-Internship-Summer-2023/44526) |
 | Innovation Lab UI/UX Design Intern | Graybar | Champaign, IL (On-site) | 2023-04-03 | US | [Link](https://www.earlystagedesignjobs.com/jobs/innovation-lab-ui-ux-design-intern) | [Link](https://graybar.wd1.myworkdayjobs.com/Careers/job/Champaign-IL/Innovation-Lab-UI-UX-Design-Intern_R231084-1) |
-| Design Internship | AppLovin | San Francisco Bay Area (On-site) | 2023-03-31 | US | [Link](https://www.earlystagedesignjobs.com/jobs/design-internship) | [Link](https://jobs.lever.co/applovin/a0a84640-7948-4fdf-b316-6349093e61f0) |
-| Summer Internship - UX Design Intern | Scaled Agile | Boulder, CO (Hybrid) | 2023-03-31 | US | [Link](https://www.earlystagedesignjobs.com/jobs/summer-internship-ux-design-intern) | [Link](https://www.linkedin.com/jobs/view/3549573364/) |
-| Design Internship Summer 2023 | Magnet Media | New York, NY | 2023-03-31 | US | [Link](https://www.earlystagedesignjobs.com/jobs/design-internship-summer-2023) | [Link](https://www.indeed.com/viewjob?jk=901faba451733395&tk=1gsqobcd3ioe0800&from=serp&vjs=3) |
-| Product/UX Design Intern | PulsePoint | Remote (US) | 2023-03-31 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-ux-design-intern) | [Link](https://jobs.jobvite.com/pulsepoint/job/oRqOmfwb?__jvst=Job%20Board&__jvsd=LinkedIn) |
