@@ -8,3 +8,5 @@ git config --local user.email ${{ secrets.EMAIL }}
 git config --local user.name ${{ secrets.NAME }}
 
 git commit -m "adding new jobs on $now"
+
+git push 

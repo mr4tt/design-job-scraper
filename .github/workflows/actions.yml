@@ -20,4 +20,14 @@ jobs:
       - name: Scrape
         run: ./update-scraper.sh
         shell: bash
-      - run: echo "🍏 This job's status is ${{ job.status }}."
+      - name: Save Time
+        run: | 
+          echo "{time}={TZ=America/Los_Angeles date +'%m/%d/%Y %H:%M %Z'}" >> $GITHUB_ENV
+      - name: Commit files
+        run: |
+          git config --local user.email ${{ secrets.EMAIL }}
+          git config --local user.name ${{ secrets.NAME }}
+          git commit -a -m "adding new jobs on ${time}"        
+        - name: Push
+          run: 
+        - run: echo "🍏 This job's status is ${{ job.status }}."
