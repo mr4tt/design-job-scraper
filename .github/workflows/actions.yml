@@ -6,6 +6,10 @@ on:
     # runs daily at midnight
     - cron: '* * * * *'
 
+env: 
+  EMAIL: ${{ secrets.EMAIL }}
+  NAME: ${{ secrets.NAME }}
+
 jobs:
   report:
     runs-on: ubuntu-latest
@@ -31,8 +35,8 @@ jobs:
 
       - name: Commit files
         run: |
-          git config --local user.email ${{ secrets.EMAIL }}
-          git config --local user.name ${{ secrets.NAME }}
+          git config --local user.email ${{ env.EMAIL }}
+          git config --local user.name ${{ env.NAME }}
           git commit -a -m "adding new jobs on ${{ env.TIME }}"
       # - name: Push
       #     run: 
