@@ -12,18 +12,23 @@ jobs:
     steps:
       - name: Check out repository code
         uses: actions/checkout@v3
+
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
+
       - name: install dependencies
         run: pip install -r requirements.txt
+
       - name: Scrape
         run: ./update-scraper.sh
         shell: bash
+
       - name: Save Time
         run: | 
-          # echo "TIME=$(TZ=America/Los_Angeles date +'%m/%d/%Y %H:%M %Z')" >> $GITHUB_ENV
-          echo "TIME=$(date +"%Y-%m-%d")" >> $GITHUB_ENV
+          echo "TIME=$(TZ=America/Los_Angeles date +'%m/%d/%Y %H:%M %Z')" >> $GITHUB_ENV
+          echo "time2=$(date +"%Y-%m-%d")" >> $GITHUB_ENV
+
       - name: Commit files
         run: |
           git config --local user.email ${{ secrets.EMAIL }}
@@ -31,4 +36,4 @@ jobs:
           git commit -a -m "adding new jobs on ${{ env.TIME }}"
       # - name: Push
       #     run: 
-        - run: echo "🍏 This job's status is ${{ job.status }}."
+      # - run: echo "🍏 This job's status is ${{ job.status }}."
