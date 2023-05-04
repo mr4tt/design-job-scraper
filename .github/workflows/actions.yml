@@ -3,8 +3,9 @@ run-name: ${{ github.actor }} hello
 
 on: 
   schedule: 
-    - cron: "0 0 * * *"
+    # - cron: "0 0 * * *"
     # runs daily at midnight
+    - cron: "8 21 * * *"
 
 jobs:
   Explore-GitHub-Actions:
