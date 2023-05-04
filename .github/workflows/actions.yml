@@ -1,0 +1,21 @@
+name: Scrape and push 
+
+on: 
+  schedule: 
+    # - cron: "0 0 * * *"
+    # runs daily at midnight
+    - cron: '* * * * *'
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v3
+      - name: List files in the repository
+        run: |
+          ls ${{ github.workspace }}
+      - name: Scrape
+        run: ./update-scraper.sh
+        shell: bash
+      - run: echo "🍏 This job's status is ${{ job.status }}."
