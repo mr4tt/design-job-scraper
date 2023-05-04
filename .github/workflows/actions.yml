@@ -27,7 +27,7 @@ jobs:
       - name: Save Time
         run: | 
           echo "TIME=$(TZ=America/Los_Angeles date +'%m/%d/%Y %H:%M %Z')" >> $GITHUB_ENV
-          echo "time2=$(date +"%Y-%m-%d")" >> $GITHUB_ENV
+          # echo "time2=$(date +"%Y-%m-%d")" >> $GITHUB_ENV
 
       - name: Commit files
         run: |
