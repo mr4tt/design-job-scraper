@@ -1,5 +1,4 @@
 name: Scrape and push 
-run-name: ${{ github.actor }} hello
 
 on: 
   schedule: 
