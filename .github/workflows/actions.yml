@@ -10,6 +10,8 @@ jobs:
   report:
     runs-on: ubuntu-latest
     steps:
+      - name: Check out repository code
+        uses: actions/checkout@v3
       - name: Scrape
         run: ./update-scraper.sh
         shell: bash
