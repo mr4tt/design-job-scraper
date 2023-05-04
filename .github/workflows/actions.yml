@@ -5,10 +5,10 @@ on:
   schedule: 
     # - cron: "0 0 * * *"
     # runs daily at midnight
-    - cron: "8 21 * * *"
+    - cron: "13 21 * * *"
 
 jobs:
-  Explore-GitHub-Actions:
+  report:
     runs-on: ubuntu-latest
     steps:
       - name: Scrape
