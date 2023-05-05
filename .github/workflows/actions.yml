@@ -2,9 +2,9 @@ name: Scrape and push
 
 on: 
   schedule: 
-    # - cron: "0 0 * * *"
+    - cron: "0 0 * * *"
     # runs daily at midnight
-    - cron: '* * * * *'
+  workflow_dispatch:
 
 env: 
   EMAIL: ${{ secrets.EMAIL }}
