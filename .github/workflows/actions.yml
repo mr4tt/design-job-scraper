@@ -38,6 +38,9 @@ jobs:
           git config --local user.email ${{ env.EMAIL }}
           git config --local user.name ${{ env.NAME }}
           git commit -a -m "adding new jobs on ${{ env.TIME }}"
-      # - name: Push
-      #     run: 
+      - name: GitHub Push
+        uses: ad-m/github-push-action@v0.6.0
+        with: 
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
       # - run: echo "🍏 This job's status is ${{ job.status }}."
