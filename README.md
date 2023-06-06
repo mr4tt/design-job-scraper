@@ -4,6 +4,9 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| UI/UX Designer (Internship) | Zodiac Group | Toronto, ON (Canada) | 2023-06-05 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-designer-internship) | [Link](https://ca.indeed.com/viewjob?cmp=ZODIAC-GROUP&t=User+Interface+Designer&jk=51815d5ffe5d58d2&q=ux&vjs=3) |
+| UX/UI Design Intern (6 Months) | (AI)RM Consulting | Remote (Canada) | 2023-06-05 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-design-intern-6-months) | [Link](https://ca.indeed.com/viewjob?jk=df53611adbf7f562&) |
+| UX Researcher Intern | Axos Bank | San Diego, CA (On-site)  | 2023-06-05 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-researcher-intern) | [Link](https://careers-axosbank.icims.com/jobs/6426/ux-researcher-intern/job) |
 | UX Designer / UX Researcher Co-op - 4 Month | CIBC | Toronto, ON | 2023-06-02 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-designer-ux-researcher-co-op-4-month) | [Link](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/UX-Designer---UX-Researcher-Co-op---4-Month_2307907) |
 | SAP iXp Intern - Visual / Graphic Designer | SAP | Newtown Square, PA | 2023-06-02 | US | [Link](https://www.earlystagedesignjobs.com/jobs/sap-ixp-intern-visual-graphic-designer) | [Link](https://www.indeed.com/viewjob?jk=6468f2172ef8a7b6&tk=1h1sk1r88ltcs800&from=serp&vjs=3) |
 | Design Intern | Orion | Remote (US) | 2023-06-02 | US | [Link](https://www.earlystagedesignjobs.com/jobs/design-intern-15) | [Link](https://orionadvisor.wd1.myworkdayjobs.com/Orion_Careers/job/Remote/Design-Intern_R1245) |
@@ -95,5 +98,3 @@ Link: https://www.earlystagedesignjobs.com/
 | Web, Mobile and Graphic Design Intern Associate | SportsID | Remote (US) | 2023-05-08 | US | [Link](https://www.earlystagedesignjobs.com/jobs/web-mobile-and-graphic-design-intern-associate) | [Link](https://www.indeed.com/viewjob?cmp=SportsID,-Inc.&t=Graphic+Design+Intern&jk=71dee8eb0a62d76c&q=ux+intern&vjs=3) |
 | UX Design Intern  | Ushur | Santa Clara, CA (Hybrid) | 2023-05-08 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-design-intern-5) | [Link](https://jobs.lever.co/ushur/bff6337b-1725-434f-ac2a-ff6623843c43/) |
 | UX Designer Co-op | PointClickCare | Mississauga, ON | 2023-05-08 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-designer-co-op) | [Link](https://ca.indeed.com/viewjob?jk=e077a6a5c816abf2&tk=1gvq2lanvllmn804&from=serp&vjs=3) |
-| Product Design Undergraduate Intern | Savvas Learning Company | Chicago, IL | 2023-05-08 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-undergraduate-intern) | [Link](https://www.indeed.com/viewjob?jk=94a793ddda44cda9&tk=1gvq2b5h3j212800&from=serp&vjs=3) |
-| UI/UX Intern - Hybrid Dallas | RealPage | Richardson, TX | 2023-05-08 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-intern-hybrid-dallas) | [Link](https://www.indeed.com/viewjob?jk=f34fe228b65e3bde&tk=1gvq2b5h3j212800&from=serp&vjs=3) |
