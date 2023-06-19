@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 readme = open("README.md", "w+")
 
-readme.write("# Scraping Early Stage Design Jobs for Internships\n\n")
+readme.write("# Scraping Early Stage Design Jobs \n\n")
 
 readme.write("Link: https://www.earlystagedesignjobs.com/\n\n")
 
@@ -47,7 +47,7 @@ while page_num in range(10):
             seen.add(x)
         return result
     
-    # removes duplicates from intern job elements (using set unorders stuff)
+    # removes duplicates from job elements (using set unorders stuff)
     unique_job_elements = remove_duplicates(job_elements)
 
     # find the actual job link 
