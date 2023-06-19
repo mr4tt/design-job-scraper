@@ -35,11 +35,11 @@ while page_num in range(10):
     jobs = results.find_all("div", role="listitem")
 
     # filters for intern positions only 
-    # intern_jobs = results.find_all(
-    #     "div", 
-    #     class_="caption1-3 captiongrey", 
-    #     string=lambda text: "intern" in text.lower()
-    #     )
+    intern_jobs = results.find_all(
+        "div", 
+        class_="caption1-3 captiongrey", 
+        string=lambda text: "intern" in text.lower()
+        )
 
     # grabs the grandparents of caption1-3 so we can loop thru properly
     intern_job_elements = [x.parent.parent.parent.parent for x in intern_jobs]
