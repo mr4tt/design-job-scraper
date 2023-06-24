@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-readme = open("README.md", "w+")
+readme = open("internships.md", "w+", encoding="utf-8")
 
 readme.write("# Scraping Early Stage Design Jobs for Internships\n\n")
 
@@ -53,7 +53,7 @@ while page_num in range(10):
             result.append(x)
             seen.add(x)
         return result
-    
+
     # removes duplicates from intern job elements (using set unorders stuff)
     unique_intern_job_elements = remove_duplicates(intern_job_elements)
 
@@ -79,6 +79,11 @@ while page_num in range(10):
         date_added = v.find("div", class_="solojobdetailswrap").findChildren("div", class_="hordivjob")[3]
         country = v.find("div", class_="solojobimpdetails").findChildren()[6]
         link = v.find("a")["href"]
+
+        # don't grab stripe link 
+        if "checkout.stripe.com" in link:
+            continue
+
         job_link = get_job_link(link)
 
         print(date_added.text)
