@@ -24,8 +24,12 @@ jobs:
       - name: install dependencies
         run: pip install -r requirements.txt
 
-      - name: Scrape
+      - name: Scrape all jobs
         run: python3 scrape-all-jobs.py
+        shell: bash
+
+      - name: Scrape internships
+        run: python3 scrape-internships.py
         shell: bash
 
       - name: Save Time
