@@ -4,6 +4,8 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| Quantitative Researcher Intern | Aurelius Quant  | Remote (US) | 2023-06-27 | US | [Link](https://www.earlystagedesignjobs.com/jobs/quantitative-researcher-intern) | [Link](https://wellfound.com/company/dex-25/jobs/2717730-quantitive-researcher-intern) |
+| Intern, bizzNEST Web & Graphic Design Team | Digital NEST | Gilroy, CA (On-site)  | 2023-06-26 | US | [Link](https://www.earlystagedesignjobs.com/jobs/intern-bizznest-web-graphic-design-team) | [Link](https://www.linkedin.com/jobs/view/3645084926) |
 | (Volunteer) Product Designer-Intern  | Wanderapp | Remote (US)  | 2023-06-26 | US | [Link](https://www.earlystagedesignjobs.com/jobs/volunteer-product-designer-intern) | [Link](https://wellfound.com/company/wanderapp-1/jobs/2716536-product-designer-intern) |
 | (Volunteer) Creative UX / UI Designer Intern  | Savasana AI | Remote (US)  | 2023-06-26 | US | [Link](https://www.earlystagedesignjobs.com/jobs/volunteer-creative-ux-ui-designer-intern) | [Link](https://wellfound.com/company/savasana-ai/jobs/2716546-creative-ux-ui-designer-intern-clone) |
 | Usability and UX Research Intern | Virtualitics | California, United States (On-site) | 2023-06-26 | US | [Link](https://www.earlystagedesignjobs.com/jobs/usability-and-ux-research-intern) | [Link](https://virtualitics.breezy.hr/p/9ea5db433060-usability-and-ux-research-intern) |
@@ -76,4 +78,3 @@ Link: https://www.earlystagedesignjobs.com/
 | Product Design Intern / Stagiaire en design produit - Fall/Automne 2023 | BetterSleep by Ipnos | Montreal, QC (On-site) | 2023-05-26 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-intern-stagiaire-en-design-produit-fall-automne-2023) | [Link](https://boards.greenhouse.io/bettersleep/jobs/6779443002) |
 | (Volunteer) Remote UI/UX Design Intern | Poppyseed | Remote (US) | 2023-05-26 | US | [Link](https://www.earlystagedesignjobs.com/jobs/volunteer-remote-ui-ux-design-intern) | [Link](https://wellfound.com/company/poppyseed/jobs/2683431-remote-ui-ux-design-intern) |
 | Intern - Undergraduate - CDH - Remote | Mayo Clinic | Rochester, MN (Remote) | 2023-05-26 | US | [Link](https://www.earlystagedesignjobs.com/jobs/intern-undergraduate-cdh-remote) | [Link](https://www.indeed.com/viewjob?jk=8702cb36adf3a94a&tk=1h1b557v5jr6r801&from=serp&vjs=3) |
-| Experience Design Internship | FM Global  | Johnston, RI | 2023-05-26 | US | [Link](https://www.earlystagedesignjobs.com/jobs/experience-design-internship) | [Link](https://www.indeed.com/viewjob?jk=c97e11f1f4ea957f&tk=1h1b557v5jr6r801&from=serp&vjs=3) |
