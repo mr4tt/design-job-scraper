@@ -4,6 +4,7 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| UX Developer Intern | Copart | Dallas, TX | 2023-06-30 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-developer-intern) | [Link](https://www.indeed.com/viewjob?jk=5de1270d74c9b373&tk=1h44um9uplenn801&from=serp&vjs=3) |
 | Web Design Intern | ServiceMaster Restoration Services | Remote (US)  | 2023-06-29 | US | [Link](https://www.earlystagedesignjobs.com/jobs/web-design-intern-b) | [Link](https://wellfound.com/company/mountain-lake-capital-1/jobs/2719718-web-design-intern-fast-growing-private-equity-backed-company) |
 | Creative Fellowship | VOX Global | Washington, DC (Hybrid) | 2023-06-28 | US | [Link](https://www.earlystagedesignjobs.com/jobs/creative-fellowship) | [Link](https://careers-voxglobal.icims.com/jobs/5312/creative-fellowship/job?mode=job&iis=Job+Board&iisn=LinkedIn) |
 | CO-OP Student, Service Design | Metrolinx | Ontario, Canada (Hybrid)  | 2023-06-28 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/co-op-student-service-design) | [Link](https://ehtc.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/106226) |
@@ -76,4 +77,3 @@ Link: https://www.earlystagedesignjobs.com/
 | UX Research Intern - Summer 2023 | FreshDirect | Bronx, NY (Hybrid) | 2023-06-01 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-research-intern-summer-2023-3) | [Link](https://prd01-hcm01.prd.mykronos.com/ta/6071600.careers?ShowJob=1879370419) |
 | Graphic Design Intern | Redvest | Remote (US) | 2023-05-31 | US | [Link](https://www.earlystagedesignjobs.com/jobs/graphic-design-intern-d3) | [Link](https://www.indeed.com/viewjob?cmp=Redvest&t=Graphic+Design+Intern&jk=66ca851d9f0ee8c7&vjs=3) |
 | UX Designer Co-op/Intern  | Nokia | North Gower, ON (On-site) | 2023-05-31 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-designer-co-op-intern) | [Link](https://aluperf.referrals.selectminds.com/jobs/ux-designer-co-op-intern-99623) |
-| UX/UI Intern | DiscoverU Health | Laurel, MD | 2023-05-30 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-intern-26) | [Link](https://discoveruhealth.betterteam.com/ux-ui-intern) |
