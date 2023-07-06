@@ -4,6 +4,7 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| Graphic Designer / Figma Ninja / Front End & UX | Data Daddy | Remote (US)  | 2023-07-05 | US | [Link](https://www.earlystagedesignjobs.com/jobs/graphic-designer-figma-ninja-front-end-ux) | [Link](https://wellfound.com/company/data-daddy/jobs/2725431-graphic-designer-figma-ninja-front-end-ux) |
 | Immersive Design Intern - Fall 2023 (September - December) | Punchcut | Remote (US) | 2023-07-04 | US | [Link](https://www.earlystagedesignjobs.com/jobs/immersive-design-intern-fall-2023-september-december) | [Link](https://www.indeed.com/viewjob?jk=de045f419ac915bd&tk=1h47gg6huhall800&from=serp&vjs=3) |
 | (Volunteer) Remote UI/UX Design Intern | Paprika | Remote (US) | 2023-07-04 | US | [Link](https://www.earlystagedesignjobs.com/jobs/volunteer-remote-ui-ux-design-intern-4) | [Link](https://wellfound.com/company/paprika-4/jobs/2724292-remote-ui-ux-design-intern) |
 | Graduate Intern, UI Innovation Design (Fall 2023 Part-Time) | Inclusively | Atlanta, GA  | 2023-07-04 | US | [Link](https://www.earlystagedesignjobs.com/jobs/graduate-intern-ui-innovation-design-fall-2023-part-time) | [Link](https://www.indeed.com/viewjob?cmp=Inclusively&t=User%20Interface%20Designer&jk=c6bc16b97d7e4590&q=ux%20intern&vjs=3) |
@@ -81,4 +82,3 @@ Link: https://www.earlystagedesignjobs.com/
 | UX Researcher Intern | Axos Bank | San Diego, CA (On-site)  | 2023-06-05 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-researcher-intern) | [Link](https://careers-axosbank.icims.com/jobs/6426/ux-researcher-intern/job) |
 | UX Designer / UX Researcher Co-op - 4 Month | CIBC | Toronto, ON | 2023-06-02 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-designer-ux-researcher-co-op-4-month) | [Link](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/UX-Designer---UX-Researcher-Co-op---4-Month_2307907) |
 | SAP iXp Intern - Visual / Graphic Designer | SAP | Newtown Square, PA | 2023-06-02 | US | [Link](https://www.earlystagedesignjobs.com/jobs/sap-ixp-intern-visual-graphic-designer) | [Link](https://www.indeed.com/viewjob?jk=6468f2172ef8a7b6&tk=1h1sk1r88ltcs800&from=serp&vjs=3) |
-| Design Intern | Orion | Remote (US) | 2023-06-02 | US | [Link](https://www.earlystagedesignjobs.com/jobs/design-intern-15) | [Link](https://orionadvisor.wd1.myworkdayjobs.com/Orion_Careers/job/Remote/Design-Intern_R1245) |
