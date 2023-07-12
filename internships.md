@@ -4,6 +4,8 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| (Volunteer) UI UX Designer / Developer  | Connect link | Remote (US) | 2023-07-11 | US | [Link](https://www.earlystagedesignjobs.com/jobs/volunteer-ui-ux-designer-developer) | [Link](https://wellfound.com/company/connect-link/jobs/2730276-ui-ux-designer-developer) |
+| UI/UX Application Design Internship (Winter/Spring 2024) | Tesla | Fremont, CA  | 2023-07-11 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-application-design-internship-winter-spring-2024) | [Link](https://www.indeed.com/viewjob?jk=ad4ff0431d025f6f&tk=1h5146rj3kp3c800&from=serp&vjs=3) |
 | Intern, UI Design  | Matrox Video | Dorval, QC (On-site) | 2023-07-10 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/intern-ui-design) | [Link](https://www.matrox.com/en/careers/intern-ui-design-s-10-05-fall-2023) |
 | Product Designer Internship | Litespace | Remote (Canada)  | 2023-07-10 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/product-designer-internship-3e6ab) | [Link](https://www.linkedin.com/jobs/view/3658554857/) |
 | (Volunteer) UI/UX Designer Intern Fall 2023  | TH Experiential  | Remote (US) | 2023-07-10 | US | [Link](https://www.earlystagedesignjobs.com/jobs/volunteer-ui-ux-designer-intern-fall-2023) | [Link](https://www.linkedin.com/jobs/view/3653264494/) |
@@ -84,7 +86,3 @@ Link: https://www.earlystagedesignjobs.com/
 | UX Intern  | Legrand North America | Remote (US) | 2023-06-09 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-intern-6) | [Link](https://www.indeed.com/viewjob?jk=f604d3906e8ce18d&tk=1h2effmj9i40i801&from=serp&vjs=3) |
 | UX Designer (Summer 2023 Internship) | Smart (US)  | Nashville, TN | 2023-06-09 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-designer-summer-2023-internship) | [Link](https://www.indeed.com/viewjob?jk=0b5c2d1f0209d89c&tk=1h2effmj9i40i801&from=serp&vjs=3) |
 | (Volunteer) UX Design Intern | NAOS Blockchain | Remote (US) | 2023-06-07 | US | [Link](https://www.earlystagedesignjobs.com/jobs/volunteer-ux-design-intern) | [Link](https://wellfound.com/company/naos-blockchain/jobs/2698680-ux-design-intern) |
-| User Research Intern | MyDataProduct | Remote (US) | 2023-06-07 | US | [Link](https://www.earlystagedesignjobs.com/jobs/user-research-intern-d3) | [Link](https://www.linkedin.com/jobs/view/3625372033/) |
-| UI UX Designer Fall Coop | Idea Theorem™ | Toronto, ON (Hybrid)  | 2023-06-07 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-designer-fall-coop) | [Link](https://www.linkedin.com/jobs/view/3625360033/) |
-| UX Designer Co-Op  | Teck Resources | Vancouver, BC | 2023-06-07 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-designer-co-op-8) | [Link](https://ca.indeed.com/viewjob?jk=3f96a61405649cdb&tk=1h29e31luhalc800&from=serp&vjs=3) |
-| UX Design Intern - Healthcare Technology  | HelpMe Feed Foundation | Remote (US & Canada) | 2023-06-07 | US & Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-design-intern-healthcare-technology) | [Link](https://wellfound.com/company/helpme-feed-foundation-1/jobs/2694686-ux-design-intern-healthcare-technology) |
