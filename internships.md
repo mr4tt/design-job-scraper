@@ -4,6 +4,7 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| UX Designer Intern  | Wind River | Remote (US) | 2023-07-25 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-designer-intern-ae682) | [Link](https://www.indeed.com/viewjob?jk=1ba969802d50e9f0&tk=1h64qj87ikmeq800&from=serp&vjs=3) |
 | Design Intern - Fall 2023 | imre | New York, NY (Remote) | 2023-07-24 | US | [Link](https://www.earlystagedesignjobs.com/jobs/design-intern-fall-2023-5bf14) | [Link](https://jobs.jobvite.com/imre/job/oprVnfwS) |
 | Product Design Intern (UX/UI - Fall 2023)  | Majestyk Apps | New York (Remote) | 2023-07-24 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-intern-ux-ui-fall-2023-1d9f4) | [Link](https://wellfound.com/company/majestyk-apps-1/jobs/2741803-product-design-intern-ux-ui-fall-2023) |
 | 2024 Summer Intern : Technology - UX Design - Undergrad or Master | PepsiCo | Purchase, NY | 2023-07-24 | US | [Link](https://www.earlystagedesignjobs.com/jobs/2024-summer-intern-technology-ux-design-undergrad-or-master) | [Link](https://www.indeed.com/viewjob?jk=0d7c080bcf621900&tk=1h5qtrbhvis9m800&from=serp&vjs=3) |
@@ -88,5 +89,3 @@ Link: https://www.earlystagedesignjobs.com/
 | Product Design Intern | KAYAK | Cambridge, MA | 2023-06-21 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-intern-d4) | [Link](https://boards.greenhouse.io/embed/job_app?token=6806521002) |
 | SAP iXp Intern - User Experience Design | SAP | Vancouver, BC (Hybrid) | 2023-06-20 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/sap-ixp-intern-user-experience-design) | [Link](https://jobs.sap.com/job/SAP-iXp-Intern-User-Experience-Design/947905301/?feedId=244601) |
 | Venture Fellowship | Folio | Remote (US) | 2023-06-19 | US | [Link](https://www.earlystagedesignjobs.com/jobs/venture-fellowship) | [Link](https://www.linkedin.com/jobs/view/3632971779/) |
-| UI/UX Intern (Bilingual in Mandarin)  | Uni Plus | Remote (US) | 2023-06-16 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-intern-bilingual-in-mandarin) | [Link](https://www.indeed.com/viewjob?cmp=Uni-Plus-Inc&t=User+Experience+Designer&jk=0757606d624ac9a8&q=ux+intern&vjs=3) |
-| Intern, Product Design (8 months) | Dialogue | Montreal-Ouest, QC (On-site)  | 2023-06-16 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/intern-product-design-8-months) | [Link](https://www.linkedin.com/jobs/view/3637537948/) |
