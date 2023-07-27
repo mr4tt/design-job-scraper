@@ -4,6 +4,10 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| UI/UX Designer (intern position) | Trudo | New York City, NY | 2023-07-26 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-designer-intern-position) | [Link](https://wellfound.com/company/trudo_ai/jobs/2744978-ui-ux-designer-intern-position) |
+| Experience Design Intern - Fall 2023 | Rock Central | Detroit, MI | 2023-07-26 | US | [Link](https://www.earlystagedesignjobs.com/jobs/experience-design-intern-fall-2023) | [Link](https://www.indeed.com/viewjob?jk=3cfad4b6c3a9f92a&tk=1h684opchj5ki801&from=serp&vjs=3) |
+| Interactive Design and Marketing Intern | FormFactor  | Remote (US) | 2023-07-26 | US | [Link](https://www.earlystagedesignjobs.com/jobs/interactive-design-and-marketing-intern) | [Link](https://www.indeed.com/viewjob?jk=43bde5eb5925043d&tk=1h684opchj5ki801&from=serp&vjs=3) |
+| Design Intern  | iFixit | San Luis Obispo, CA | 2023-07-26 | US | [Link](https://www.earlystagedesignjobs.com/jobs/design-intern-3cc93) | [Link](https://ifixit.breezy.hr/p/feef096f2a1c-design-intern) |
 | UX Designer Intern  | Wind River | Remote (US) | 2023-07-25 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-designer-intern-ae682) | [Link](https://www.indeed.com/viewjob?jk=1ba969802d50e9f0&tk=1h64qj87ikmeq800&from=serp&vjs=3) |
 | Design Intern - Fall 2023 | imre | New York, NY (Remote) | 2023-07-24 | US | [Link](https://www.earlystagedesignjobs.com/jobs/design-intern-fall-2023-5bf14) | [Link](https://jobs.jobvite.com/imre/job/oprVnfwS) |
 | Product Design Intern (UX/UI - Fall 2023)  | Majestyk Apps | New York (Remote) | 2023-07-24 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-intern-ux-ui-fall-2023-1d9f4) | [Link](https://wellfound.com/company/majestyk-apps-1/jobs/2741803-product-design-intern-ux-ui-fall-2023) |
