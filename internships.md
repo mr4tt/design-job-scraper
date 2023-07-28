@@ -4,6 +4,9 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| Product Design Intern | Skilbi | Remote (US) | 2023-07-27 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-intern-33f56) | [Link](https://www.linkedin.com/jobs/view/3673345665/) |
+| Graphic Design Intern | Silk & Snow | North York, ON (Hybrid)  | 2023-07-27 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/graphic-design-intern-1706c) | [Link](https://www.linkedin.com/jobs/view/3676751724/) |
+| UX/UI designer Intern | Leela | New York, NY (On-site) | 2023-07-27 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-designer-intern-4ab41) | [Link](https://www.linkedin.com/jobs/view/3670409367/) |
 | UI/UX Designer (intern position) | Trudo | New York City, NY | 2023-07-26 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-designer-intern-position) | [Link](https://wellfound.com/company/trudo_ai/jobs/2744978-ui-ux-designer-intern-position) |
 | Experience Design Intern - Fall 2023 | Rock Central | Detroit, MI | 2023-07-26 | US | [Link](https://www.earlystagedesignjobs.com/jobs/experience-design-intern-fall-2023) | [Link](https://www.indeed.com/viewjob?jk=3cfad4b6c3a9f92a&tk=1h684opchj5ki801&from=serp&vjs=3) |
 | Interactive Design and Marketing Intern | FormFactor  | Remote (US) | 2023-07-26 | US | [Link](https://www.earlystagedesignjobs.com/jobs/interactive-design-and-marketing-intern) | [Link](https://www.indeed.com/viewjob?jk=43bde5eb5925043d&tk=1h684opchj5ki801&from=serp&vjs=3) |
@@ -92,4 +95,3 @@ Link: https://www.earlystagedesignjobs.com/
 | Product Design Intern - Summer 2023 | Uber Freight | Chicago, IL (On-site) | 2023-06-21 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-intern-summer-2023-2) | [Link](https://recruiting.ultipro.com/TRA1017TTLP/JobBoard/519468c3-752b-4088-8a2b-421c015f9556/OpportunityDetail?sourceId=23a72bf7-9a18-4796-896a-8e3145152e7a&opportunityId=6ce446cc-c801-4885-b3c0-87106ecffa15&utm_medium=referrer&utm_source=LINKEDIN) |
 | Product Design Intern | KAYAK | Cambridge, MA | 2023-06-21 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-intern-d4) | [Link](https://boards.greenhouse.io/embed/job_app?token=6806521002) |
 | SAP iXp Intern - User Experience Design | SAP | Vancouver, BC (Hybrid) | 2023-06-20 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/sap-ixp-intern-user-experience-design) | [Link](https://jobs.sap.com/job/SAP-iXp-Intern-User-Experience-Design/947905301/?feedId=244601) |
-| Venture Fellowship | Folio | Remote (US) | 2023-06-19 | US | [Link](https://www.earlystagedesignjobs.com/jobs/venture-fellowship) | [Link](https://www.linkedin.com/jobs/view/3632971779/) |
