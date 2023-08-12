@@ -4,6 +4,7 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| UI/UX Intern | ODworks | Remote (US)  | 2023-08-10 |  | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-intern-065b0) | [Link](https://wellfound.com/company-l/odworks/jobs/2761040-ui-ux-intern) |
 | Content Strategy Intern, 2023 | Northwestern Mutual | Milwaukee, WI | 2023-08-09 | US | [Link](https://www.earlystagedesignjobs.com/jobs/content-strategy-intern-2023) | [Link](https://www.indeed.com/viewjob?jk=ed050e36e8ed11b6&tk=1h7c67j0ii0dm80i&from=serp&vjs=3) |
 | Volunteer Internship role for Experience Researcher for Digital Wellness Startup based on Ayurveda | Ayuwell.ai | Remote (US) | 2023-08-09 | US | [Link](https://www.earlystagedesignjobs.com/jobs/volunteer-internship-role-for-experience-researcher-for-digital-wellness-startup-based-on-ayurveda) | [Link](https://www.linkedin.com/jobs/view/3684480519/) |
 | 2024 Experience Design Summer Intern | U.S. Bank National Association | Minneapolis, MN | 2023-08-09 | US | [Link](https://www.earlystagedesignjobs.com/jobs/2024-experience-design-summer-intern) | [Link](https://www.indeed.com/viewjob?jk=e26ec9c5bc7ad83c&tk=1h7c67j0ii0dm80i&from=serp&vjs=3) |
@@ -95,6 +96,3 @@ Link: https://www.earlystagedesignjobs.com/
 | Creative Fellowship | VOX Global | Washington, DC (Hybrid) | 2023-06-28 | US | [Link](https://www.earlystagedesignjobs.com/jobs/creative-fellowship) | [Link](https://careers-voxglobal.icims.com/jobs/5312/creative-fellowship/job?mode=job&iis=Job+Board&iisn=LinkedIn) |
 | CO-OP Student, Service Design | Metrolinx | Ontario, Canada (Hybrid)  | 2023-06-28 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/co-op-student-service-design) | [Link](https://ehtc.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/106226) |
 | Figma Graphic Design Intern, College Student | Podscribe | Remote (US) | 2023-06-28 | US | [Link](https://www.earlystagedesignjobs.com/jobs/figma-graphic-design-intern-college-student) | [Link](https://wellfound.com/company/podscribe/jobs/2526141-figma-graphic-design-intern-college-student) |
-| Product Design, Intern | SimplePractice | Santa Monica, CA (Remote)  | 2023-06-28 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-intern-b1) | [Link](https://www.simplepractice.com/careers-list/?gh_jid=4918008004&) |
-| Web Designer UI/UX Intern  | Sonadia | Remote (US) | 2023-06-28 | US | [Link](https://www.earlystagedesignjobs.com/jobs/web-designer-ui-ux-intern) | [Link](https://wellfound.com/company/sonadia/jobs/2718212-web-designer-ui-ux-intern) |
-| UX Product Designer Intern | Delta Dental Ins. | Remote (US)  | 2023-06-28 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-product-designer-intern) | [Link](https://www.indeed.com/viewjob?jk=d05c803048451f3a&tk=1h3vsskldi5f7802&from=serp&vjs=3) |
