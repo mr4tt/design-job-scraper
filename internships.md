@@ -4,6 +4,12 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| UI/UX Design Intern | Second Bind | Toronto, ON | 2023-10-02 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-design-intern-86b64) | [Link](https://ca.indeed.com/viewjob?jk=dc907470c6e2e6a3&tk=1hbfd0emhj5nj800&from=serp&vjs=3) |
+| UX UI Internship | CLOCKY | Remote (US) | 2023-10-02 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-internship) | [Link](https://wellfound.com/jobs/613044-clocky-ux-ui-internship) |
+| UI/UX Designer  | Bunch Infotech | Remote (US) | 2023-10-02 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-designer-6619a) | [Link](https://wellfound.com/jobs/2808956-ui-ux-designer) |
+| Experience / UI Designer Intern | Electronic Arts | Vancouver, BC | 2023-10-02 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/experience-ui-designer-intern) | [Link](https://ca.indeed.com/viewjob?jk=e68a6bf53b04f799&tk=1hb7et0aqlenv801&from=serp&vjs=3) |
+| UX Research Intern (Masters)  | Nutanix | Remote (US) | 2023-10-02 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-research-intern-masters) | [Link](https://nutanix.eightfold.ai/careers?_jvsd=LinkedIn&domain=nutanix.com&pid=17624786&jvst=Job%2BBoard) |
+| Intern: UX Designer  | IBM | Yorktown Heights, NY | 2023-10-02 | US | [Link](https://www.earlystagedesignjobs.com/jobs/intern-ux-designer) | [Link](http://indeed.com/viewjob?jk=19c03d3f4eed77be&tk=1hbi0mtmbkp1s803&from=serp&vjs=3) |
 | Internship - UXUI Experience Design (Spring 2024) | Universal Orlando Resort | Orlando, FL | 2023-09-25 | US | [Link](https://www.earlystagedesignjobs.com/jobs/internship-uxui-experience-design-spring-2024) | [Link](https://www.indeed.com/viewjob?jk=2a07a36b8a50d06a&tk=1havrfuv7hbim800&from=serp&vjs=3) |
 | XD UD Research Intern | Signet Jewelers  | Irving, TX  | 2023-09-25 | US | [Link](https://www.earlystagedesignjobs.com/jobs/xd-ud-research-intern) | [Link](https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Irving-TX/XD-UD-Research-Intern_REQ_61393) |
 | Web Design Internship  | Carbon Fiber Music | Miami Lakes, FL | 2023-09-25 | US | [Link](https://www.earlystagedesignjobs.com/jobs/web-design-internship) | [Link](https://www.indeed.com/viewjob?cmp=Carbon-Fiber-Music&t=Web%20Designer&jk=943de1ba1747db37&q) |
