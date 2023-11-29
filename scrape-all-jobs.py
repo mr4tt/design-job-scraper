@@ -5,7 +5,7 @@ readme = open("README.md", "w+", encoding="utf-8")
 
 readme.write("# Scraping Early Stage Design Jobs \n\n")
 
-readme.write("Link: https://www.earlystagedesignjobs.com/\n\n")
+readme.write("Link: https://www.earlystagedesignjobs.com/\n\nPlease check out the internships.md file to see only internships.\n\n")
 
 readme.write("| Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |\n")
 readme.write("| --- | --- | --- | --- | --- | --- | --- |\n")
