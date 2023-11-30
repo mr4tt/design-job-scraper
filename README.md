@@ -2,6 +2,8 @@
 
 Link: https://www.earlystagedesignjobs.com/
 
+Please check out the internships.md file to see only internships.
+
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
 | UI/UX Designer (KnowerTech) | LoKnow | Montreal, QC | 2023-11-20 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-designer-knowertech) | [Link](https://ca.indeed.com/viewjob?cmp=LoKnow&t=User+Interface+Designer&jk=dbfce17f4971908d&q=ux&xpse=SoDA67I3IyONsUxRiZ0LbzkdCdPP&vjs=3) |
