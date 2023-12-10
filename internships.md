@@ -4,6 +4,8 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| Product Design Intern | Visual Lease | Woodbridge, NJ (Remote) | 2023-12-04 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-intern-5c4f6) | [Link](https://jobs.lever.co/visuallease/17d20625-717d-434d-8936-b3f1500e35ea) |
+| Design Technologist Internship - 2024 (US) | Amazon | Seattle, WA | 2023-12-04 | US | [Link](https://www.earlystagedesignjobs.com/jobs/design-technologist-internship-2024-us) | [Link](https://www.amazon.jobs/en/jobs/2398552/design-technologist-internship-2024-us) |
 | (Volunteer) UI/UX Intern | Transformers Academy | Remote (Canada) | 2023-12-04 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/volunteer-ui-ux-intern) | [Link](https://www.linkedin.com/jobs/view/3769550496/) |
 | UX Designer Internship Summer 2024 | Immuta | Boston, MA (Hybrid) | 2023-12-04 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-designer-internship-summer-2024) | [Link](https://www.linkedin.com/jobs/view/3741479463) |
 | Internship, Visual Design, (Summer 2024) | Tesla | Hawthorne, CA (On-site) | 2023-12-04 | US | [Link](https://www.earlystagedesignjobs.com/jobs/internship-visual-design-summer-2024) | [Link](https://www.tesla.com/careers/search/job/214109) |

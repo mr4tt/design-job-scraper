@@ -6,6 +6,8 @@ Please check out the internships.md file to see only internships.
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| Product Design Intern | Visual Lease | Woodbridge, NJ (Remote) | 2023-12-04 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-intern-5c4f6) | [Link](https://jobs.lever.co/visuallease/17d20625-717d-434d-8936-b3f1500e35ea) |
+| Design Technologist Internship - 2024 (US) | Amazon | Seattle, WA | 2023-12-04 | US | [Link](https://www.earlystagedesignjobs.com/jobs/design-technologist-internship-2024-us) | [Link](https://www.amazon.jobs/en/jobs/2398552/design-technologist-internship-2024-us) |
 | Associate, Interactive Designer- 12 Month Contract | Raymond James | Toronto, ON (Remote) | 2023-12-04 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/associate-interactive-designer-12-month-contract) | [Link](https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=562919) |
 | (Volunteer) UI/UX Intern | Transformers Academy | Remote (Canada) | 2023-12-04 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/volunteer-ui-ux-intern) | [Link](https://www.linkedin.com/jobs/view/3769550496/) |
 | UX Designer Internship Summer 2024 | Immuta | Boston, MA (Hybrid) | 2023-12-04 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-designer-internship-summer-2024) | [Link](https://www.linkedin.com/jobs/view/3741479463) |
@@ -229,5 +231,3 @@ Please check out the internships.md file to see only internships.
 | Content Developer  | Laivly | Remote (Canada)  | 2023-07-26 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/content-developer) | [Link](https://ca.indeed.com/viewjob?jk=5d0c9731fcc6704d&tk=1h6858egmkonn801&from=serp&vjs=3) |
 | Junior UI/UX Designer  | Flare Systems | Montreal, QC | 2023-07-26 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/junior-ui-ux-designer-eb17f) | [Link](https://ca.indeed.com/viewjob?jk=fecf199df5ca339e&tk=1h6858egmkonn801&from=serp&vjs=3) |
 | UI/UX Designer (intern position) | Trudo | New York City, NY | 2023-07-26 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-designer-intern-position) | [Link](https://wellfound.com/company/trudo_ai/jobs/2744978-ui-ux-designer-intern-position) |
-| UI/UX Designer | Spatial Informatics Group | Remote (US) | 2023-07-26 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-designer-85b47) | [Link](https://www.linkedin.com/jobs/view/3672953966/) |
-| Graphic Designer  | HealthEquity | Remote (US)  | 2023-07-26 | US | [Link](https://www.earlystagedesignjobs.com/jobs/graphic-designer-aa707) | [Link](https://careers-healthequity.icims.com/jobs/6574/graphic-designer/job?mode=job&iis=LinkedIn&iisn=LinkedIntsep&source=LinkedIn) |
