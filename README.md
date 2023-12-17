@@ -6,6 +6,8 @@ Please check out the internships.md file to see only internships.
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| UI/UX Design Intern | Charge Collective | Los Angeles, CA | 2023-12-13 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-design-intern-2881e) | [Link](https://wellfound.com/jobs/2451564-ui-ux-design-intern) |
+| Year-Round Intern - UI/UX (Design) | OCC | Chicago, IL | 2023-12-13 | US | [Link](https://www.earlystagedesignjobs.com/jobs/year-round-intern-ui-ux-design) | [Link](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Year-Round-Intern---UI-UX_REQ-3499) |
 | User Experience Research Intern, PhD, Summer 2024  | Google | Multiple Locations, US | 2023-12-13 | US | [Link](https://www.earlystagedesignjobs.com/jobs/user-experience-research-intern-phd-summer-2024) | [Link](https://www.google.com/about/careers/applications/jobs/results/113378400883614406-user-experience-research-intern-phd-summer-2024) |
 | UX Research Intern | Kenvue | Skillman, NJ (On-site) | 2023-12-13 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-research-intern-d2a25) | [Link](https://kenvue.taleo.net/careersection/2/jobdetail.ftl?src=JB-10280&job=2307014137W&lang=en) |
 | Associate UX Designer | PRECISIONxtract | Indianapolis, IN (On-site) | 2023-12-13 | US | [Link](https://www.earlystagedesignjobs.com/jobs/associate-ux-designer-2e4e4) | [Link](https://www.linkedin.com/jobs/view/3781065713/) |
@@ -229,5 +231,3 @@ Please check out the internships.md file to see only internships.
 | UX/UI Designer | Tack Mobile  | Denver, CO | 2023-08-01 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-designer-8d5f9) | [Link](https://www.indeed.com/viewjob?jk=b6a73fe9cb03009e&tk=1h6nghp2kis9t800&from=serp&vjs=3) |
 | Web Designer/Developer (Entry Level Developer) On-site | Med-Vet International  | Mettawa, IL | 2023-08-01 | US | [Link](https://www.earlystagedesignjobs.com/jobs/web-designer-developer-entry-level-developer-on-site) | [Link](https://www.indeed.com/viewjob?cmp=Med--Vet-International&t=Web%20Designer&jk=91c9772f59ecb187&q=ux&vjs=3) |
 | Freelance UX Writer  | MindTickle | Remote (US) | 2023-08-01 | US | [Link](https://www.earlystagedesignjobs.com/jobs/freelance-ux-writer) | [Link](https://www.indeed.com/viewjob?jk=dd7f45a898e83cc0&tk=1h6nghp2kis9t800&from=serp&vjs=3) |
-| Junior Graphic Designer | Catbird | Brooklyn, NY | 2023-08-01 | US | [Link](https://www.earlystagedesignjobs.com/jobs/junior-graphic-designer-b76b6) | [Link](https://www.indeed.com/viewjob?jk=0a362b655523d519&tk=1h6nggs9diomd800&from=serp&vjs=3) |
-| User Researcher | Kessel Run | Remote (US) | 2023-08-01 | US | [Link](https://www.earlystagedesignjobs.com/jobs/user-researcher) | [Link](https://www.indeed.com/viewjob?jk=9254a3f036df3d8a&tk=1h6nggs9diomd800&from=serp&vjs=3) |

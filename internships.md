@@ -4,6 +4,8 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| UI/UX Design Intern | Charge Collective | Los Angeles, CA | 2023-12-13 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-design-intern-2881e) | [Link](https://wellfound.com/jobs/2451564-ui-ux-design-intern) |
+| Year-Round Intern - UI/UX (Design) | OCC | Chicago, IL | 2023-12-13 | US | [Link](https://www.earlystagedesignjobs.com/jobs/year-round-intern-ui-ux-design) | [Link](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Year-Round-Intern---UI-UX_REQ-3499) |
 | User Experience Research Intern, PhD, Summer 2024  | Google | Multiple Locations, US | 2023-12-13 | US | [Link](https://www.earlystagedesignjobs.com/jobs/user-experience-research-intern-phd-summer-2024) | [Link](https://www.google.com/about/careers/applications/jobs/results/113378400883614406-user-experience-research-intern-phd-summer-2024) |
 | UX Research Intern | Kenvue | Skillman, NJ (On-site) | 2023-12-13 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-research-intern-d2a25) | [Link](https://kenvue.taleo.net/careersection/2/jobdetail.ftl?src=JB-10280&job=2307014137W&lang=en) |
 | 2024 Ogilvy Creative Summer Internship | Designer | Ogilvy | New York, NY (On-site) | 2023-12-13 | US | [Link](https://www.earlystagedesignjobs.com/jobs/2024-ogilvy-creative-summer-internship-designer) | [Link](https://www.ogilvy.com/careers/4341646005?gh_jid=4341646005&gh_src=6930f6eb2) |
