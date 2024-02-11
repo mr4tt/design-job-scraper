@@ -2,7 +2,7 @@
 
 Link: https://www.earlystagedesignjobs.com/
 
-Please check out the internships.md file to see only internships.
+Please check out [internships.md](https://github.com/mr4tt/scrape-esdj/blob/main/internships.md) to see only internships.
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
