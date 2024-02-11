@@ -2,17 +2,29 @@ import requests
 from bs4 import BeautifulSoup
 
 readme = open("README.md", "w+", encoding="utf-8")
+internships = open("internships.md", "w+", encoding="utf-8")
+fulltime = open("fulltime.md", "w+", encoding="utf-8")
 
 readme.write("# Scraping Early Stage Design Jobs \n\n")
 
-readme.write("Link: https://www.earlystagedesignjobs.com/\n\nPlease check out the internships.md file to see only internships.\n\n")
+readme.write("""Link: https://www.earlystagedesignjobs.com/\n\nPlease check out 
+             [internships.md](https://github.com/mr4tt/scrape-esdj/blob/main/internships.md) for only internships, or
+             [fulltime.md](https://github.com/mr4tt/scrape-esdj/blob/main/internships.md) for only full time positions.\n\n""")
 
 readme.write("| Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |\n")
 readme.write("| --- | --- | --- | --- | --- | --- | --- |\n")
 
+internships.write("# Scraping Early Stage Design Jobs \n\nLink: https://www.earlystagedesignjobs.com/\n\n")
+internships.write("| Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |\n")
+internships.write("| --- | --- | --- | --- | --- | --- | --- |\n")
+
+fulltime.write("# Scraping Early Stage Design Jobs \n\nLink: https://www.earlystagedesignjobs.com/\n\n")
+fulltime.write("| Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |\n")
+fulltime.write("| --- | --- | --- | --- | --- | --- | --- |\n")
+
 page_num = 1
 
-while page_num in range(10):
+while page_num in range(6):
     url = "https://www.earlystagedesignjobs.com/" if page_num == 1 else "https://www.earlystagedesignjobs.com/?d844da9d_page=" + str(page_num)
 
     # gets each page
@@ -66,6 +78,17 @@ while page_num in range(10):
 
         # returns the job link 
         return soup2.find("a",{"class":"button gotojobbutton w-button"}).get("href")
+    
+    def write_to_file(files, title, company, location, date_added, country, link, job_link):
+        for file in files:
+            file.write(("| " + title + " ").replace("–","-"))
+            file.write("| " + company.text + " ")
+            file.write(("| " + location.text + " ").replace("é","e"))
+            file.write("| " + date_added.text + " ")
+            file.write("| " + country.text + " ")
+            file.write("| [Link](https://www.earlystagedesignjobs.com" + link + ") ")
+            file.write("| [Link](" + job_link + ") |\n")
+
 
     for v in unique_job_elements:
         title = v.find("h4", class_="h4-666")
@@ -74,26 +97,25 @@ while page_num in range(10):
         date_added = v.find("div", class_="solojobdetailswrap").findChildren("div", class_="hordivjob")[3]
         country = v.find("div", class_="solojobimpdetails").findChildren()[6]
         link = v.find("a")["href"]
+        job_type = v.find("div", class_="solojobimpdetails").findChildren()[2]
 
         job_link = get_job_link(link)
+        files_to_write = [readme]
+
+        if "intern" in job_type.text.lower():
+            files_to_write.append(internships)
+        else:
+            files_to_write.append(fulltime)
+
+        write_to_file(files_to_write, title.text, company, location, date_added, country, link, job_link)
 
         print(date_added.text)
-
-        readme.write(("| " + title.text + " ").replace("–","-"))
-
-        readme.write("| " + company.text + " ")
-
-        readme.write(("| " + location.text + " ").replace("é","e"))
-
-        readme.write("| " + date_added.text + " ")
-
-        readme.write("| " + country.text + " ")
-        readme.write("| [Link](https://www.earlystagedesignjobs.com" + link + ") ")
-        readme.write("| [Link](" + job_link + ") |\n")
 
 
     print("Page: " + str(page_num))
 
-    page_num+=1
+    page_num += 1
     
 readme.close()
+internships.close()
+fulltime.close()
