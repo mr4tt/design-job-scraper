@@ -28,10 +28,6 @@ jobs:
         run: python3 scrape-all-jobs.py
         shell: bash
 
-      - name: Scrape internships
-        run: python3 scrape-internships.py
-        shell: bash
-
       - name: Save Time
         run: | 
           echo "TIME=$(TZ=America/Los_Angeles date +'%m/%d/%Y %H:%M %Z')" >> $GITHUB_ENV
