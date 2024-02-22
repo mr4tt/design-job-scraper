@@ -4,6 +4,10 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| Junior Designer  | ABB | Texas City, TX | 2024-02-21 | US | [Link](https://www.earlystagedesignjobs.com/jobs/junior-designer-69239) | [Link](https://www.careers-page.com/angenex/job/L75868XX) |
+| UI/UX Designer  | Habitat Learn | Toronto, ON | 2024-02-21 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-designer-89b8e) | [Link](https://www.linkedin.com/jobs/view/3831903945/) |
+| Product Designer (2-5 years of experience)  | Info-Tech Research Group Inc.  | Remote (Canada)  | 2024-02-21 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/product-designer-2-5-years-of-experience) | [Link](https://ca.indeed.com/viewjob?jk=19d794c022da24b3&tk=1hmsd6f45hbh4802&from=serp&vjs=3) |
+| Product Designer - AI  | NICE | Park City, UT  | 2024-02-21 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-designer---ai) | [Link](https://boards.eu.greenhouse.io/nice/jobs/4280093101) |
 | Creative Designer | Jumbo Interactive  | Calgary, AB (On-site) | 2024-02-19 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/creative-designer) | [Link](https://www.jumbointeractive.com/careers/join-the-team/?adId=751796) |
 | Jr. Product Designer | AutoTrader.ca | Greater Toronto Area, Canada | 2024-02-19 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/jr-product-designer-0c9aa) | [Link](https://www.linkedin.com/jobs/view/3815638955/) |
 | Associate UI/UX Designer  | Konrad | Toronto, ON | 2024-02-19 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/associate-ui-ux-designer-7e815) | [Link](https://ca.indeed.com/viewjob?jk=bd05163f74d7a437&tk=1hmsd6f45hbh4802&from=serp&vjs=3) |
@@ -50,6 +54,3 @@ Link: https://www.earlystagedesignjobs.com/
 | Associate UX Designer | PRECISIONxtract | Indianapolis, IN (On-site) | 2023-12-13 | US | [Link](https://www.earlystagedesignjobs.com/jobs/associate-ux-designer-2e4e4) | [Link](https://www.linkedin.com/jobs/view/3781065713/) |
 | Associate Designer, User Experience  | Leviton | New Orleans, LA | 2023-12-13 | US | [Link](https://www.earlystagedesignjobs.com/jobs/associate-designer-user-experience) | [Link](https://careers.leviton.com/jobs/4807/Associate+Designer,+User+Experience) |
 | UI/UX Designer, Entry | ADT | Remote (US) | 2023-12-11 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-designer-entry) | [Link](https://jobs.adt.com/job/19562500/ui-ux-designer-entry-us-nationwide/) |
-| Associate, Interactive Designer- 12 Month Contract | Raymond James | Toronto, ON (Remote) | 2023-12-04 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/associate-interactive-designer-12-month-contract) | [Link](https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=562919) |
-| UI/UX Designer (KnowerTech) | LoKnow | Montreal, QC | 2023-11-20 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-designer-knowertech) | [Link](https://ca.indeed.com/viewjob?cmp=LoKnow&t=User+Interface+Designer&jk=dbfce17f4971908d&q=ux&xpse=SoDA67I3IyONsUxRiZ0LbzkdCdPP&vjs=3) |
-| UX/Graphic Designer (Part-time)  | JOMO Studio | Toronto, ON | 2023-11-20 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-graphic-designer-part-time) | [Link](https://ca.indeed.com/viewjob?cmp=JOMO-Studio-Inc.&t=User+Experience+Designer&jk=5de94ce3c27f7744&q=ux&xpse=SoAZ67I3IyOIqHTWi50LbzkdCdPP&vjs=3) |
