@@ -14,12 +14,10 @@ chart_break = "| --- | --- | --- | --- | --- | --- | --- |\n"
 # add chart markdown style to each file
 for f in all_files:
     f.write(esdj_link)
+    if f == readme:
+        f.write("""Please check out [internships.md](https://github.com/mr4tt/scrape-esdj/blob/main/internships.md) for only internships, or [fulltime.md](https://github.com/mr4tt/scrape-esdj/blob/main/internships.md) for only full time positions.\n\n""")
     f.write(chart_headers)
     f.write(chart_break)
-
-readme.write("""Please check out 
-             [internships.md](https://github.com/mr4tt/scrape-esdj/blob/main/internships.md) for only internships, or
-             [fulltime.md](https://github.com/mr4tt/scrape-esdj/blob/main/internships.md) for only full time positions.\n\n""")
 
 page_num = 1
 
