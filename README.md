@@ -2,12 +2,12 @@
 
 Link: https://www.earlystagedesignjobs.com/
 
+| Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
+| --- | --- | --- | --- | --- | --- | --- |
 Please check out 
              [internships.md](https://github.com/mr4tt/scrape-esdj/blob/main/internships.md) for only internships, or
              [fulltime.md](https://github.com/mr4tt/scrape-esdj/blob/main/internships.md) for only full time positions.
 
-| Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
-| --- | --- | --- | --- | --- | --- | --- |
 | Product Design (UI/UX) Internship | Boats Group | Miami, FL | 2024-02-21 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-ui-ux-internship) | [Link](https://www.boatsgroup.com/careers/?gnk=job&gni=8a78859f8d85a4a7018d8fb7d9d77164) |
 | Junior Designer  | ABB | Texas City, TX | 2024-02-21 | US | [Link](https://www.earlystagedesignjobs.com/jobs/junior-designer-69239) | [Link](https://www.careers-page.com/angenex/job/L75868XX) |
 | SAP iXp Intern - UX Designer | SAP | Vancouver, BC | 2024-02-21 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/sap-ixp-intern---ux-designer) | [Link](https://ca.indeed.com/viewjob?jk=ae73695c2b918539&tk=1hmsd4nihh5jb803&from=serp&vjs=3) |
