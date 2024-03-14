@@ -4,6 +4,11 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| Product Designer | VEERUM | Calgary, AB | 2024-03-13 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/product-designer-49db2) | [Link](https://ca.indeed.com/viewjob?jk=daac4c13be2ce0fb&q) |
+| Designer I | Rakuten Rewards | Toronto, ON | 2024-03-13 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/designer-i) | [Link](https://rakuten.wd1.myworkdayjobs.com/RakutenRewards/job/Toronto-Canada/Designer-I_1020423-1?) |
+| UX Designer  | Questrade Financial Group | Toronto, ON | 2024-03-13 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-designer-71765) | [Link](https://ca.indeed.com/viewjob?jk=4650c86976a511f3&tk=1hogpflaillns80k&from=serp&vjs=3) |
+| Product Designer | Zealthy | Miami Beach, FL | 2024-03-13 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-designer-b0624) | [Link](https://www.linkedin.com/jobs/view/3842555826/) |
+| UX/UI Design Specialist | Definity Financial Corporation | Toronto, ON | 2024-03-13 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-design-specialist-67d0a) | [Link](https://ca.indeed.com/viewjob?jk=d258d09471f94a5e&tk=1hogpflaillns80k&from=serp&vjs=3) |
 | Product Designer | Fōcus - an Ōnin Group company (recruiter) | Redmond, WA (Remote) | 2024-03-11 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-designer-05a8b) | [Link](https://www.linkedin.com/jobs/view/3845870954/) |
 | UI Designer I | Inceed (Recruiter) | Katy, TX (On-site) | 2024-03-11 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ui-designer-i) | [Link](https://www.linkedin.com/jobs/view/3846328912/) |
 | Jr Designer  | HEEDGROUP | New York City Metropolitan Area | 2024-03-11 | US | [Link](https://www.earlystagedesignjobs.com/jobs/jr-designer-4e054) | [Link](https://www.linkedin.com/jobs/view/3848164707/) |
@@ -65,6 +70,3 @@ Link: https://www.earlystagedesignjobs.com/
 | Junior UI/UX Designer  | SGA Dental Partners OPCO | Richmond Hill, GA | 2023-12-25 | US | [Link](https://www.earlystagedesignjobs.com/jobs/junior-ui-ux-designer-8d98c) | [Link](https://www.indeed.com/viewjob?jk=d9d68878007d55ef&tk=1hiemn1dehale802&from=serp&vjs=3) |
 | Jr Service Designer | Maximus | Washington, DC (Remote) | 2023-12-25 | US | [Link](https://www.earlystagedesignjobs.com/jobs/jr-service-designer) | [Link](https://www.indeed.com/viewjob?jk=a7fef83ae4d8b781&tk=1hiemlp20kc0s800&from=serp&vjs=3) |
 | Junior Product Designer | Brooksource (recruiter)  | Greenwood Village, CO (Hybrid) | 2023-12-20 | US | [Link](https://www.earlystagedesignjobs.com/jobs/junior-product-designer-85cad) | [Link](https://www.linkedin.com/jobs/view/3785840497/) |
-| Junior Graphic Designer  | Design House Collective | Vancouver, BC | 2023-12-18 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/junior-graphic-designer-ec957) | [Link](https://ca.indeed.com/viewjob?cmp=Design-House-Collective&t=Junior%20Graphic%20Designer&jk=40252903db14a102&) |
-| UX Coordinator | Junto Experience Agency | Toronto, ON | 2023-12-18 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-coordinator) | [Link](https://ca.indeed.com/viewjob?cmp=Junto-Experience-Agency-Inc&t=User%20Experience%20Designer&jk=bd3a3287ed7c3c9f&) |
-| Junior Designer (Part Time - 20 hrs/ week) | Publicis Groupe | Toronto, ON (On-site) | 2023-12-18 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/junior-designer-part-time-20-hrs-week) | [Link](https://jobs.smartrecruiters.com/PublicisGroupe/743999951492323-junior-designer-part-time-20-hrs-week-) |
