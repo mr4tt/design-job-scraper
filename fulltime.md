@@ -4,6 +4,10 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| UX Product Designer | Indigo Slate | Remote (Canada & US) | 2024-04-22 | Canada & US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-product-designer) | [Link](https://www.linkedin.com/jobs/view/3905341405/) |
+| Brand Designer (Remote Canada)  | Mogo | Vancouver, BC (Remote)  | 2024-04-22 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/brand-designer-remote-canada) | [Link](https://www.linkedin.com/jobs/view/3902258695/) |
+| Web Designer | Botpress | Montreal, QC (On-site) | 2024-04-22 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/web-designer-fff10) | [Link](https://www.linkedin.com/jobs/view/3887190450/) |
+| Graphic Designer (14-month term) - Vancouver (hybrid work) | Rewind Software | Vancouver, BC | 2024-04-22 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/graphic-designer-14-month-term---vancouver-hybrid-work) | [Link](https://ca.indeed.com/viewjob?jk=c383466caa11aed1&tk=1hrsnjd7okc1h82m&from=serp&vjs=3) |
 | UI/UX Designer | Workhub Software Corp. | Calgary, AB | 2024-04-17 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-designer-2c51b) | [Link](https://ca.indeed.com/viewjob?jk=2a012dfd670c3551) |
 | UI/UX Designer  | Empire Barber Supplies | Remote (Canada)  | 2024-04-17 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-designer-42bc4) | [Link](https://ca.indeed.com/viewjob?jk=37a0988b765b6279&) |
 | Freelance UX ResearchOps Coordinator (US-based) | Applause | Remote (US) | 2024-04-17 | US | [Link](https://www.earlystagedesignjobs.com/jobs/freelance-ux-researchops-coordinator-us-based) | [Link](https://www.linkedin.com/jobs/view/3853264329/) |
@@ -79,8 +83,3 @@ Link: https://www.earlystagedesignjobs.com/
 | Designer I | Rakuten Rewards | Toronto, ON | 2024-03-13 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/designer-i) | [Link](https://rakuten.wd1.myworkdayjobs.com/RakutenRewards/job/Toronto-Canada/Designer-I_1020423-1?) |
 | UX Designer  | Questrade Financial Group | Toronto, ON | 2024-03-13 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-designer-71765) | [Link](https://ca.indeed.com/viewjob?jk=4650c86976a511f3&tk=1hogpflaillns80k&from=serp&vjs=3) |
 | Product Designer | Zealthy | Miami Beach, FL | 2024-03-13 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-designer-b0624) | [Link](https://www.linkedin.com/jobs/view/3842555826/) |
-| UX/UI Design Specialist | Definity Financial Corporation | Toronto, ON | 2024-03-13 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-design-specialist-67d0a) | [Link](https://ca.indeed.com/viewjob?jk=d258d09471f94a5e&tk=1hogpflaillns80k&from=serp&vjs=3) |
-| Product Designer | Fōcus - an Ōnin Group company (recruiter) | Redmond, WA (Remote) | 2024-03-11 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-designer-05a8b) | [Link](https://www.linkedin.com/jobs/view/3845870954/) |
-| UI Designer I | Inceed (Recruiter) | Katy, TX (On-site) | 2024-03-11 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ui-designer-i) | [Link](https://www.linkedin.com/jobs/view/3846328912/) |
-| Jr Designer  | HEEDGROUP | New York City Metropolitan Area | 2024-03-11 | US | [Link](https://www.earlystagedesignjobs.com/jobs/jr-designer-4e054) | [Link](https://www.linkedin.com/jobs/view/3848164707/) |
-| UX/UI Designer  | Seequent | Vancouver, BC | 2024-03-11 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-designer-9792d) | [Link](https://ca.indeed.com/viewjob?jk=101bf1650002629f&tk=1hogol88mllqj804&from=serp&vjs=3) |
