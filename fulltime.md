@@ -4,6 +4,12 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| User Experience Designer Toronto Remote | Motorola Solutions | Toronto, ON | 2024-04-24 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/user-experience-designer-toronto-remote) | [Link](https://ca.indeed.com/viewjob?jk=924b31e4b7d1e618&tk=1hrsnleqekc1h884&from=serp&vjs=3) |
+| UX/UI Designer  | Nureva | Kanata, ON | 2024-04-24 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-designer-2c74c) | [Link](https://ca.indeed.com/viewjob?jk=8b3731383ac9d9d6&tk=1hrsnmil8kc1h84l&from=serp&vjs=3) |
+| Associate UX/UI Designer | Capital Rx | Remote (US) | 2024-04-24 | US | [Link](https://www.earlystagedesignjobs.com/jobs/associate-ux-ui-designer-74a19) | [Link](https://www.linkedin.com/jobs/view/3904405644/) |
+| Product Designer | Certa.ai | Remote (US) | 2024-04-24 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-designer-ca3cf) | [Link](https://wellfound.com/jobs/2983901-product-designer) |
+| User Experience Designer | Mural Health | Remote (US) | 2024-04-24 | US | [Link](https://www.earlystagedesignjobs.com/jobs/user-experience-designer-d9c6a) | [Link](https://www.linkedin.com/jobs/view/3906228748/) |
+| Web3 UI/UX Designer | BlockApps | Brooklyn, NY (Hybrid) | 2024-04-24 | US | [Link](https://www.earlystagedesignjobs.com/jobs/web3-ui-ux-designer) | [Link](https://www.linkedin.com/jobs/view/3903321979/) |
 | UX Product Designer | Indigo Slate | Remote (Canada & US) | 2024-04-22 | Canada & US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-product-designer) | [Link](https://www.linkedin.com/jobs/view/3905341405/) |
 | Brand Designer (Remote Canada)  | Mogo | Vancouver, BC (Remote)  | 2024-04-22 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/brand-designer-remote-canada) | [Link](https://www.linkedin.com/jobs/view/3902258695/) |
 | Web Designer | Botpress | Montreal, QC (On-site) | 2024-04-22 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/web-designer-fff10) | [Link](https://www.linkedin.com/jobs/view/3887190450/) |
@@ -79,7 +85,3 @@ Link: https://www.earlystagedesignjobs.com/
 | UI/UX Designer for health tracking mobile app for an IoT wearable device  | HealthX | Remote (Canada & US) | 2024-03-18 | Canada & US | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-designer-for-health-tracking-mobile-app-for-an-iot-wearable-device) | [Link](https://wellfound.com/jobs/2272930-ui-ux-designer-for-health-tracking-mobile-app-for-an-iot-wearable-device) |
 | Designer | We The Collective | Remote (Canada) | 2024-03-18 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/designer-392a2) | [Link](https://wethecollective.notion.site/Designer-fa640cb1f9644498a48512717ec80570) |
 | UX Designer - skate.(Hybrid/Remote) | Full Circle Studio | Vancouver, BC (Remote) | 2024-03-18 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-designer---skate-hybrid-remote) | [Link](https://ea.gr8people.com/jobs/183327/ux-designer-skatehybridremote?sid=4) |
-| Product Designer | VEERUM | Calgary, AB | 2024-03-13 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/product-designer-49db2) | [Link](https://ca.indeed.com/viewjob?jk=daac4c13be2ce0fb&q) |
-| Designer I | Rakuten Rewards | Toronto, ON | 2024-03-13 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/designer-i) | [Link](https://rakuten.wd1.myworkdayjobs.com/RakutenRewards/job/Toronto-Canada/Designer-I_1020423-1?) |
-| UX Designer  | Questrade Financial Group | Toronto, ON | 2024-03-13 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-designer-71765) | [Link](https://ca.indeed.com/viewjob?jk=4650c86976a511f3&tk=1hogpflaillns80k&from=serp&vjs=3) |
-| Product Designer | Zealthy | Miami Beach, FL | 2024-03-13 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-designer-b0624) | [Link](https://www.linkedin.com/jobs/view/3842555826/) |
