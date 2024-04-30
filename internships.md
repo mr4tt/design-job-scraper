@@ -4,6 +4,9 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| Content Strategist Intern | ExpertVoice | Remote (US) | 2024-04-29 | US | [Link](https://www.earlystagedesignjobs.com/jobs/content-strategist-intern) | [Link](https://recruiting.paylocity.com/Recruiting/Jobs/Details/2404524) |
+| Product Design Intern | Talkspace | New York, United States | 2024-04-29 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-intern-a0a2a) | [Link](https://boards.greenhouse.io/embed/job_app?token=5162218004) |
+| Design Internship | Rhythm | California, United States (Remote) | 2024-04-29 | US | [Link](https://www.earlystagedesignjobs.com/jobs/design-internship-6303a) | [Link](https://boards.greenhouse.io/rhythmagency/jobs/7343246002) |
 | UX Intern, Researcher HYBRID | RealPage | Richardson, TX  | 2024-04-22 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-intern-researcher-hybrid) | [Link](https://recruiting2.ultipro.com/REA1005REALP/JobBoard/9e84575d-6c12-4726-8828-5c68a1bdb792/OpportunityDetail?opportunityId=89add1bd-7851-48b6-86b8-15f2e33cd60b&utm_medium=referrer&jbsrc=3209724D-818E-47A0-BC63-8CE354796A90) |
 | Product Design Intern  | Crunchtime | Boston, MA (On-site)  | 2024-04-24 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-intern-bc185) | [Link](https://www.crunchtime.com/open-positions?gh_jid=5155595004&) |
 | Web UX/UI Design Intern | Ashoka | Remote (preference for EST) | 2024-04-24 | US | [Link](https://www.earlystagedesignjobs.com/jobs/web-ux-ui-design-intern) | [Link](https://jobs.jobvite.com/ashoka/job/oLr0sfwo?__jvst=Job%20Board&__jvsd=LinkedIn) |
@@ -44,7 +47,3 @@ Link: https://www.earlystagedesignjobs.com/
 | Product Designer Intern  | Xe.com | Denver, CO (On-site) | 2024-03-20 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-designer-intern-c15ae) | [Link](https://www.linkedin.com/jobs/view/3855790930/) |
 | Product Design Intern (Summer 2024) | Pure Storage | Santa Clara, CA | 2024-03-20 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-intern-summer-2024-db53b) | [Link](https://www.linkedin.com/jobs/view/3858008596/) |
 | Summer Intern: Product Design (UI/UX)  | G2 | Chicago, IL | 2024-03-20 | US | [Link](https://www.earlystagedesignjobs.com/jobs/summer-intern-product-design-ui-ux) | [Link](https://boards.greenhouse.io/g2crowd/jobs/5797060?gh_src=87affbfb1&) |
-| Summer Internship: Experience Design Team | WongDoody | New York, NY (Hybrid)  | 2024-03-18 | US | [Link](https://www.earlystagedesignjobs.com/jobs/summer-internship-experience-design-team) | [Link](https://boards.greenhouse.io/wongdoody/jobs/5895612003?gh_src=e5ed65cf3us&) |
-| (Summer) Junior Designer Intern: May to August 2024 | SharkNinja | Needham, MA (Remote) | 2024-03-18 | US | [Link](https://www.earlystagedesignjobs.com/jobs/summer-junior-designer-intern-may-to-august-2024) | [Link](https://sharkninja.com/careers?gh_jid=4340686006&gh_src=371f37716us) |
-| UX Design Intern | GoTo Canada | Remote (Canada) | 2024-03-18 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-design-intern-52111) | [Link](https://goto.wd5.myworkdayjobs.com/GoToCareers/job/Remote-Canada/UX-Design-Intern_R24-1274) |
-| UX Researcher (Co-op) | Thales | Ottawa, ON | 2024-03-13 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-researcher-co-op) | [Link](https://ca.indeed.com/viewjob?jk=a63ee107e3d56d4a&tk=1hogpflaillns80k&from=serp&vjs=3) |
