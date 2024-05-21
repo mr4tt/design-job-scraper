@@ -4,6 +4,8 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| UI/UX Designer Intern (Part-time) | aSocial | Remote (Canada)  | 2024-05-20 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-designer-intern-part-time) | [Link](https://www.linkedin.com/jobs/view/3924074564) |
+| Product Design Intern | GoLinks | Remote (US)  | 2024-05-20 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-intern-36442) | [Link](https://www.golinks.io/careers.php?ashby_jid=3060fe96-419a-41c3-94c8-fb02c393dc87) |
 | UX/UI Designer - 4 Month Co-op/Internship (Fall 2024)  | Intact | Saint-Hyacinthe, QC | 2024-05-15 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-designer---4-month-co-op-internship-fall-2024) | [Link](https://ca.indeed.com/viewjob?jk=493cc9c853312f77&tk=1htiokei9iofu800&from=serp&vjs=3) |
 | Design Internship  | Studio MLM | Menomonie, WI (On-site)  | 2024-05-15 | US | [Link](https://www.earlystagedesignjobs.com/jobs/design-internship-0c1a5) | [Link](https://www.linkedin.com/jobs/view/3917573464/) |
 | Graphic Design Intern | Sidecar | New York, NY (Hybrid) | 2024-05-15 | US | [Link](https://www.earlystagedesignjobs.com/jobs/graphic-design-intern-06ede) | [Link](https://www.linkedin.com/jobs/view/3920253232/) |
@@ -46,4 +48,3 @@ Link: https://www.earlystagedesignjobs.com/
 | SAP iXp Intern - Designer, Digital Modalities, SAP Digital | SAP | Atlanta, GA (On-site) | 2024-04-17 | US | [Link](https://www.earlystagedesignjobs.com/jobs/sap-ixp-intern---designer-digital-modalities-sap-digital) | [Link](https://jobs.sap.com/job/Atlanta-SAP-iXp-Intern-Designer%252C-Digital-Modalities%252C-SAP-Digital-GA-30326/1058172701) |
 | UX Design Intern - Summer 2024 (Hybrid) | PPL Corporation | Allentown, PA | 2024-04-17 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-design-intern---summer-2024-hybrid) | [Link](https://careers.pplweb.com/jobs/10120?mode=apply&iis=LinkedIn&lang=en-us) |
 | UI/UX Design, Intern - June 2024 (3 months) | Konrad Group | New York, United States (Hybrid) | 2024-04-15 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-design-intern---june-2024-3-months) | [Link](https://www.konrad.com/careers/job/ui-ux-design-intern-may-2024-4-months_5925411003) |
-| Apprentice Program - UX Design | Allstate | Remote (US) | 2024-04-15 | US | [Link](https://www.earlystagedesignjobs.com/jobs/apprentice-program---ux-design) | [Link](https://www.allstate.jobs/job/20229708/apprentice-program-ux-design-remote/) |
