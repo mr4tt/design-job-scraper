@@ -5,6 +5,7 @@ Link: https://www.earlystagedesignjobs.com/
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
 | Graphic Design Internship | Prophet | New York, United States (On-site)  | 2024-05-27 | US | [Link](https://www.earlystagedesignjobs.com/jobs/graphic-design-internship-38a13) | [Link](https://prophet.com/careers/design-intern-2/?gh_jid=4344561005) |
+| UX/UI Design Co-op | Doctalk | Remote (Canada) | 2024-05-29 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-design-co-op-50ff8) | [Link](https://ca.indeed.com/viewjob?cmp=Doctalk&t=User%20Interface%20Designer&jk=d7410b8c6616de46&) |
 | (Volunteer) UI/UX Intern  | Boostability | Remote (US)  | 2024-05-27 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-intern-f617b) | [Link](https://www.linkedin.com/jobs/view/3920320129/) |
 | Product Design Intern | Philo | San Francisco, CA | 2024-05-27 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-intern-50232) | [Link](https://boards.greenhouse.io/philo/jobs/5988669) |
 | UI/UX Designer Intern (Part-time) | aSocial | Remote (Canada)  | 2024-05-20 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-designer-intern-part-time) | [Link](https://www.linkedin.com/jobs/view/3924074564) |
@@ -47,5 +48,3 @@ Link: https://www.earlystagedesignjobs.com/
 | Product Design Intern  | Crunchtime | Boston, MA (On-site)  | 2024-04-24 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-intern-bc185) | [Link](https://www.crunchtime.com/open-positions?gh_jid=5155595004&) |
 | Web UX/UI Design Intern | Ashoka | Remote (preference for EST) | 2024-04-24 | US | [Link](https://www.earlystagedesignjobs.com/jobs/web-ux-ui-design-intern) | [Link](https://jobs.jobvite.com/ashoka/job/oLr0sfwo?__jvst=Job%20Board&__jvsd=LinkedIn) |
 | UX Product Yearlong Intern, 360  | U.S. News & World Report | Remote (US) | 2024-04-24 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-product-yearlong-intern-360) | [Link](https://recruiting.myapps.paychex.com/appone/MainInfoReq.asp?R_ID=6200335&B_ID=91&fid=1&Adid=&SearchScreenID=8768&CountryID=3&LanguageID=2) |
-| UX/UI Design Intern  | Avenue Road | Toronto, ON (On-site) | 2024-04-22 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-design-intern-4656b) | [Link](https://weishauptdesign.bamboohr.com/careers/141) |
-| UX Design Intern | Ushur | Santa Clara, CA (Hybrid)  | 2024-04-22 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-design-intern-1c005) | [Link](https://jobs.lever.co/ushur/91650e24-d51e-41b3-86ea-3e3bb803f0fb) |
