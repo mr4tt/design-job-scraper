@@ -4,6 +4,14 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| Product Designer (UI/UX)  | SportsRecruits | New York, NY (Remote) | 2024-06-03 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-designer-ui-ux-c94d2) | [Link](https://www.linkedin.com/jobs/view/3939692374/) |
+| Product Designer  | Rapptr Labs |  Remote (US) | 2024-06-03 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-designer-ae752) | [Link](https://www.indeed.com/viewjob?jk=f33f115986709909&tk=1hvbfvq58h1jf85o&from=serp&vjs=3) |
+| UX/UI Engineer I  | Rainfall Health | San Francisco Bay Area (Remote) | 2024-06-03 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-engineer-i) | [Link](https://www.linkedin.com/jobs/view/3938003784/) |
+| Product Designer  | Beavr Design | Remote (Canada) | 2024-06-03 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/product-designer-ed4c0) | [Link](https://www.linkedin.com/jobs/view/3939687307/) |
+| UX/UI Designer  | Spark Labs | Vancouver, BC | 2024-06-03 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-designer-365cc) | [Link](https://ca.indeed.com/viewjob?cmp=Spark-Labs-Marketing&t=User%20Interface%20Designer&jk=70d74a994a507924&) |
+| Junior Product Designer | Genos Group | Toronto, ON | 2024-06-03 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/junior-product-designer-05d6e) | [Link](https://ca.indeed.com/viewjob?cmp=Genos-Group&t=Junior%20Product%20Designer&jk=912ad383599e4b50&) |
+| UX/UI Designer  | APPTOZA | Toronto, ON | 2024-06-03 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-designer-3584c) | [Link](https://ca.indeed.com/viewjob?jk=a43f26e44bd85a63&) |
+| User Researcher  | Hootsuite | Calgary, AB | 2024-06-03 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/user-researcher-a0da7) | [Link](https://careers.hootsuite.com/job/?gh_jid=5989419) |
 | User Experience Designer/Service Designer (Junior)  | Interclypse Annapolis | Junction, MD (On-site) | 2024-05-29 | US | [Link](https://www.earlystagedesignjobs.com/jobs/user-experience-designer-service-designer-junior) | [Link](https://dc1prodrecruiting.paylocity.com/Recruiting/Jobs/Details/2463672/Interclypse-Inc?) |
 | Contract Junior Designer | Aescape | San Francisco, CA | 2024-05-29 | US | [Link](https://www.earlystagedesignjobs.com/jobs/contract-junior-designer) | [Link](https://jobs.ashbyhq.com/aescape/a00dfc1b-3038-4632-a9a7-263062ffbfcb/) |
 | UX/UI Designer  | Highwire | Burlington, MA | 2024-05-29 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-designer-3dadb) | [Link](https://www.highwire.com/company/jobs/job-details?gh_jid=5187109004) |
@@ -81,7 +89,3 @@ Link: https://www.earlystagedesignjobs.com/
 | Design Researcher - Contract | Normative | Remote (Canada) | 2024-04-29 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/design-researcher---contract) | [Link](https://ca.indeed.com/viewjob?cmp=FoloTech&t=Product%20Designer&jk=d274883a5d353e5d) |
 | UX Designer  | Under Armour | Remote (US)  | 2024-04-29 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-designer-312b7) | [Link](https://careers.underarmour.com/job/Remote-UX-Designer-OR-97458/1158475700/) |
 | Product Designer  | Justworks Labs | New York, NY | 2024-04-29 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-designer-2940e) | [Link](https://www.indeed.com/viewjob?jk=80d83a545c63b775&tk=1hsek626tjr6688c&from=serp&vjs=3) |
-| User Experience Designer Toronto Remote | Motorola Solutions | Toronto, ON | 2024-04-24 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/user-experience-designer-toronto-remote) | [Link](https://ca.indeed.com/viewjob?jk=924b31e4b7d1e618&tk=1hrsnleqekc1h884&from=serp&vjs=3) |
-| UX/UI Designer  | Nureva | Kanata, ON | 2024-04-24 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-designer-2c74c) | [Link](https://ca.indeed.com/viewjob?jk=8b3731383ac9d9d6&tk=1hrsnmil8kc1h84l&from=serp&vjs=3) |
-| Associate UX/UI Designer | Capital Rx | Remote (US) | 2024-04-24 | US | [Link](https://www.earlystagedesignjobs.com/jobs/associate-ux-ui-designer-74a19) | [Link](https://www.linkedin.com/jobs/view/3904405644/) |
-| Product Designer | Certa.ai | Remote (US) | 2024-04-24 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-designer-ca3cf) | [Link](https://wellfound.com/jobs/2983901-product-designer) |
