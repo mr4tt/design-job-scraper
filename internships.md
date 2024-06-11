@@ -4,6 +4,7 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| SAP iXp Intern - UX Designer [Vancouver]  | SAP | Vancouver, BC | 2024-06-10 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/sap-ixp-intern---ux-designer-vancouver) | [Link](https://ca.indeed.com/viewjob?jk=6ac6f05a4f378044&tk=1hvup25ntj5n3800&from=serp&vjs=3) |
 | UX Intern (Paid) | Rocket55 | Minneapolis, MN (On-site) | 2024-06-03 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-intern-paid) | [Link](https://dc1prodrecruiting.paylocity.com/Recruiting/Jobs/Details/2479343/Rocket-55-LLC?) |
 | UX Research- Internship (USA) | Line | Remote (US) | 2024-06-03 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-research--internship-usa-126c0) | [Link](https://wellfound.com/jobs/2620614-ux-research-internship-usa) |
 | UX Designer Co-Op- Technology Operations | CIBC | Toronto, ON  | 2024-06-05 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-designer-co-op--technology-operations) | [Link](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/UX-Designer-Co-Op--Technology-Operations_2412618?) |
@@ -38,8 +39,3 @@ Link: https://www.earlystagedesignjobs.com/
 | UX Design Intern  | Awardco | Lindon, UT | 2024-05-06 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-design-intern-21a3c) | [Link](https://www.award.co/position?gh_jid=4137112004&gh_src=9cf780ca4us) |
 | UX Designer - Summer Internship | Prepr | Remote (Canada) | 2024-05-06 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-designer---summer-internship) | [Link](https://ca.indeed.com/viewjob?cmp=Prepr&t=User%20Experience%20Designer&jk=ecc2cc2c7cf87c92&) |
 | Product Intern  | EasyPost | Boulder, CO (Remote) | 2024-05-01 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-intern) | [Link](https://jobs.lever.co/easypost-2/73ca8130-ddad-4d48-9704-7ecc70b92353/) |
-| UX/UI Co-op (Hybrid) - Fall 2024 | Kardium | Burnaby, BC (Hybrid) | 2024-05-01 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-co-op-hybrid---fall-2024) | [Link](https://kardium.com/careers/4360440006/?gh_jid=4360440006) |
-| User Experience Designer Coop/Intern | Nokia | Kanata, ON (On-site) | 2024-05-01 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/user-experience-designer-coop-intern) | [Link](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6435?src=SNS-102&utm_medium=jobshare) |
-| User Experience Researcher Coop/Intern | Nokia | Kanata, ON | 2024-05-01 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/user-experience-researcher-coop-intern) | [Link](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6462?src=SNS-102&utm_medium=jobshare) |
-| User Experience Research Intern | GreatSchools.org | Remote (US) | 2024-05-01 | US | [Link](https://www.earlystagedesignjobs.com/jobs/user-experience-research-intern-b9120) | [Link](https://greatschools.bamboohr.com/careers/35) |
-| UI/UX Design Internship - Summer 2024 | Vert Ventures | New York, NY (Hybrid) | 2024-05-01 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-design-internship---summer-2024) | [Link](https://www.linkedin.com/jobs/view/3906332316/) |
