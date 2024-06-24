@@ -4,6 +4,8 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| SAP iXp Intern - User Assistance Writer | SAP | Vancouver, BC | 2024-06-17 |  | [Link](https://www.earlystagedesignjobs.com/jobs/sap-ixp-intern---user-assistance-writer) | [Link](https://ca.indeed.com/viewjob?jk=f07088fce98bd964&tk=1i0cchauvlfi4800&from=serp&vjs=3) |
+| UXUI Designer Intern  | Prep Doctors | Mississauga, ON | 2024-06-17 |  | [Link](https://www.earlystagedesignjobs.com/jobs/uxui-designer-intern) | [Link](https://ca.indeed.com/viewjob?cmp=Prep-Doctors&t=Designer&jk=a9a6c6881782f6c5&) |
 | Product Design Intern - Password Manager - Fall 2024 | 1Password | Remote (Canada) | 2024-06-12 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-intern---password-manager---fall-2024) | [Link](https://jobs.lever.co/1password/0bb84c06-3ee8-4194-8ae6-e4c19cdff6f8/) |
 | User Experience Research Paid Intern- Remote | Aeroflow Health | Carrollton, GA (Remote) | 2024-06-12 | US | [Link](https://www.earlystagedesignjobs.com/jobs/user-experience-research-paid-intern--remote) | [Link](https://recruiting.ultipro.com/AER1003ARFL/JobBoard/8ac052e6-225b-46cd-8508-eb54bfdc4f3c/OpportunityDetail?opportunityId=4e396548-96f0-469f-9a40-1b8cc7b98597&) |
 | UX designer intern | FlexShopper | Boca Raton, FL (On-site)  | 2024-06-12 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-designer-intern-cd178) | [Link](https://www.linkedin.com/jobs/view/3939888674/) |
@@ -39,4 +41,3 @@ Link: https://www.earlystagedesignjobs.com/
 | UX Research Intern  | Zipline | San Francisco, CA | 2024-05-08 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-research-intern-38477) | [Link](https://wellfound.com/jobs/2999540-ux-research-intern) |
 | AI Research Intern | Impacter.ai  | Remote (US) | 2024-05-08 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ai-research-intern) | [Link](https://wellfound.com/jobs/2995210-ai-research-intern) |
 | eLearning Design Intern (8 month internship)  | Thales | Toronto, ON (Hybrid) | 2024-05-08 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/elearning-design-intern-8-month-internship) | [Link](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/eLearning-Design-Intern_R1005635) |
-| Intern, UX Design & Communications | CAQH | District of Columbia, United States (Remote) | 2024-05-06 | US | [Link](https://www.earlystagedesignjobs.com/jobs/intern-ux-design-communications) | [Link](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=36ae7f4d-4c5c-4b62-9d70-df2494b451b3&jobId=519857&source=LI&lang=en_US) |

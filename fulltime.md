@@ -4,6 +4,8 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| Website Figma Graphic Designer | Arkwell Agency | Remote (Canada) | 2024-06-17 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/website-figma-graphic-designer) | [Link](https://ca.indeed.com/viewjob?cmp=AA-Ltd.&t=Web%20Designer&jk=0df03a161a8ee9ef&) |
+| Product Designer - Competitive | Hudl | Austin, TX (Remote) | 2024-06-17 |  | [Link](https://www.earlystagedesignjobs.com/jobs/product-designer---competitive) | [Link](https://boards.greenhouse.io/hudl/jobs/6036805?source=LinkedIn) |
 | Intermediate Product Designer  | Scrawlr | Vancouver, BC (Hybrid) | 2024-06-12 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/intermediate-product-designer-12443) | [Link](https://www.linkedin.com/jobs/view/3943563880/) |
 | Designer | Believeco:Partners | Remote (Canada) | 2024-06-12 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/designer-789d7) | [Link](https://recruiting.ultipro.ca/BEL5100BEPA/JobBoard/b44a8739-bcde-47a6-93b5-416258e3a1e1/OpportunityDetail?opportunityId=5153a89d-2cfc-4d8e-ba1a-6e6c191de02b) |
 | UX Designer (Remote) | Rackner | San Antonio, TX (Remote) | 2024-06-12 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-designer-remote) | [Link](https://boards.greenhouse.io/rackner/jobs/4428851005) |
@@ -90,6 +92,3 @@ Link: https://www.earlystagedesignjobs.com/
 | UX Digital Product Designer  | Procom (recruiter) | Toronto, ON | 2024-05-08 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-digital-product-designer) | [Link](https://ca.indeed.com/viewjob?jk=d56f868d17443e2f&q=ux&l=Canada&tk=1ht53fo052gkq058&) |
 | Product Designer  | EnglishScore | Remote (US) | 2024-05-08 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-designer-d845d) | [Link](https://boards.greenhouse.io/englishscore/jobs/5934850?gh_src=5db16f881us) |
 | UX Designer (hybrid) | Ziosk | Dallas, TX | 2024-05-08 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-designer-hybrid) | [Link](https://ziosk.bamboohr.com/careers/413) |
-| UX Researcher, Associate | NetJets | Columbus, Ohio Metropolitan Area | 2024-05-06 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-researcher-associate) | [Link](https://www.linkedin.com/jobs/view/3914672828/) |
-| UX Designer, I  | Zebra Technologies | Chicago, IL | 2024-05-06 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-designer-i-cda5d) | [Link](https://zebra.eightfold.ai/careers?src=srm_linkedin_jb&domain=zebra.com&pid=343619444340) |
-| Product Designer I | DISH Network | Denver, CO (On-site)  | 2024-05-06 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-designer-i-5f903) | [Link](https://jobs.dish.com/jobs/86583?) |
