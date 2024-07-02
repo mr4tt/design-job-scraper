@@ -4,6 +4,7 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| UX Designer Intern | Leidos | Remote (US) | 2024-07-01 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-designer-intern-6ab4f) | [Link](https://careers.leidos.com/jobs/14595485-ux-designer-intern?tm_job=R-00138348&tm_event=view&tm_company=2502&bid=56) |
 | User Experience Intern (September 12 months) | IBM | Markham, ON | 2024-06-26 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/user-experience-intern-september-12-months) | [Link](https://careers.ibm.com/job/20589323/user-experience-intern-september-12-months-remote/) |
 | Product Design Intern | Aya Healthcare | Remote (US) | 2024-06-26 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-intern-af1aa) | [Link](https://www.ayahealthcare.com/corporate-careers/jobs/6044107?gh_jid=6044107) |
 | UI / UX Design Intern | Stealth Startup | Remote (US) | 2024-06-26 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-design-intern-7dc98) | [Link](https://app.dover.io/apply/onyx/b477d102-c0d5-44ae-81fc-7ee19f960113?rs=42706078) |
@@ -38,6 +39,3 @@ Link: https://www.earlystagedesignjobs.com/
 | UX/UI Designer - 4 Month Co-op/Internship (Fall 2024)  | Intact | Saint-Hyacinthe, QC | 2024-05-15 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-designer---4-month-co-op-internship-fall-2024) | [Link](https://ca.indeed.com/viewjob?jk=493cc9c853312f77&tk=1htiokei9iofu800&from=serp&vjs=3) |
 | Design Internship  | Studio MLM | Menomonie, WI (On-site)  | 2024-05-15 | US | [Link](https://www.earlystagedesignjobs.com/jobs/design-internship-0c1a5) | [Link](https://www.linkedin.com/jobs/view/3917573464/) |
 | Graphic Design Intern | Sidecar | New York, NY (Hybrid) | 2024-05-15 | US | [Link](https://www.earlystagedesignjobs.com/jobs/graphic-design-intern-06ede) | [Link](https://www.linkedin.com/jobs/view/3920253232/) |
-| Product Design Internship (Prototyping and Animation) (Remote) - Fall 2024 | Super.com | Toronto, ON (Remote) | 2024-05-13 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-internship-prototyping-and-animation-remote---fall-2024) | [Link](https://jobs.lever.co/super-com/22b716e2-6b80-4dc2-8e9e-92dbcfcf9a49/) |
-| Product Design Internship (Remote) - Fall 2024  | Super.com | Toronto, ON (Remote) | 2024-05-13 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-internship-remote---fall-2024) | [Link](https://jobs.lever.co/super-com/22b716e2-6b80-4dc2-8e9e-92dbcfcf9a49/) |
-| Brand Design Intern (Remote) - Fall 2024 | Super.com | Toronto, ON (Remote) | 2024-05-13 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/brand-design-intern-remote---fall-2024) | [Link](https://ca.indeed.com/viewjob?jk=4c4b2d39c87c420e&tk=1htioi6afiofp802&from=serp&vjs=3) |
