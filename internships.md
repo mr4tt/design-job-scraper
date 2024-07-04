@@ -4,6 +4,7 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2024 Fall User Research Co-Op | Bose Corporation | Framingham, MA (On-site) | 2024-07-03 | US | [Link](https://www.earlystagedesignjobs.com/jobs/2024-fall-user-research-co-op) | [Link](https://boseallaboutme.wd1.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/XMLNAME-2024-Fall-User-Research-Co-Op_R26429?companyApplyUrl=%2526Source%253DLinkedIn) |
 | UX Designer Intern | Leidos | Remote (US) | 2024-07-01 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-designer-intern-6ab4f) | [Link](https://careers.leidos.com/jobs/14595485-ux-designer-intern?tm_job=R-00138348&tm_event=view&tm_company=2502&bid=56) |
 | User Experience Intern (September 12 months) | IBM | Markham, ON | 2024-06-26 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/user-experience-intern-september-12-months) | [Link](https://careers.ibm.com/job/20589323/user-experience-intern-september-12-months-remote/) |
 | Product Design Intern | Aya Healthcare | Remote (US) | 2024-06-26 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-intern-af1aa) | [Link](https://www.ayahealthcare.com/corporate-careers/jobs/6044107?gh_jid=6044107) |
@@ -35,7 +36,3 @@ Link: https://www.earlystagedesignjobs.com/
 | User Experience Researcher - Fall 2024 Co-op | D2L | Kitchener, ON | 2024-05-22 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/user-experience-researcher---fall-2024-co-op) | [Link](https://ca.indeed.com/viewjob?jk=e1f891d54de13262&tk=1hu4nho6nllr0800&from=serp&vjs=3) |
 | UX/UI Design Intern  | GeologicAI | Calgary, AB | 2024-05-22 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-design-intern-9665a) | [Link](https://enersoft.bamboohr.com/careers/130) |
 | UX Designer Intern (September - 8 months)  | IBM | Markham, ON | 2024-05-22 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-designer-intern-september---8-months) | [Link](https://careers.ibm.com/job/20429709/ux-designer-intern-september-8-months-markham-ca/) |
-| Product Design Intern | GoLinks | Remote (US)  | 2024-05-20 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-intern-36442) | [Link](https://www.golinks.io/careers.php?ashby_jid=3060fe96-419a-41c3-94c8-fb02c393dc87) |
-| UX/UI Designer - 4 Month Co-op/Internship (Fall 2024)  | Intact | Saint-Hyacinthe, QC | 2024-05-15 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-designer---4-month-co-op-internship-fall-2024) | [Link](https://ca.indeed.com/viewjob?jk=493cc9c853312f77&tk=1htiokei9iofu800&from=serp&vjs=3) |
-| Design Internship  | Studio MLM | Menomonie, WI (On-site)  | 2024-05-15 | US | [Link](https://www.earlystagedesignjobs.com/jobs/design-internship-0c1a5) | [Link](https://www.linkedin.com/jobs/view/3917573464/) |
-| Graphic Design Intern | Sidecar | New York, NY (Hybrid) | 2024-05-15 | US | [Link](https://www.earlystagedesignjobs.com/jobs/graphic-design-intern-06ede) | [Link](https://www.linkedin.com/jobs/view/3920253232/) |
