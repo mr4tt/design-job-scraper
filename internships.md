@@ -4,6 +4,7 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| Intern, Innovation Designer (Fall 2024) | Delta Air Lines | Atlanta, GA  | 2024-07-10 | US | [Link](https://www.earlystagedesignjobs.com/jobs/intern-innovation-designer-fall-2024) | [Link](https://www.indeed.com/viewjob?jk=be40836b87f22d45&tk=1i24ffco9n8hm80l&from=serp&vjs=3) |
 | UX/UI Intern | Hitachi Rail | Toronto, ON (Hybrid) | 2024-07-08 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-intern-ee270) | [Link](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/UX-UI-Intern_R1005626) |
 | Product Design Intern | TheGuarantors | New York, NY (On-site) | 2024-07-08 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-intern-ece87) | [Link](https://ats.rippling.com/theguarantors-open-positions/jobs/b7ddfd34-453d-47be-8424-2b58e41518a4?) |
 | 2024 Fall User Research Co-Op | Bose Corporation | Framingham, MA (On-site) | 2024-07-03 | US | [Link](https://www.earlystagedesignjobs.com/jobs/2024-fall-user-research-co-op) | [Link](https://boseallaboutme.wd1.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/XMLNAME-2024-Fall-User-Research-Co-Op_R26429?companyApplyUrl=%2526Source%253DLinkedIn) |
@@ -32,6 +33,3 @@ Link: https://www.earlystagedesignjobs.com/
 | (Volunteer) UI/UX Intern  | Boostability | Remote (US)  | 2024-05-27 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-intern-f617b) | [Link](https://www.linkedin.com/jobs/view/3920320129/) |
 | Product Design Intern | Philo | San Francisco, CA | 2024-05-27 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-intern-50232) | [Link](https://boards.greenhouse.io/philo/jobs/5988669) |
 | UI/UX Designer Intern (Part-time) | aSocial | Remote (Canada)  | 2024-05-20 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-designer-intern-part-time) | [Link](https://www.linkedin.com/jobs/view/3924074564) |
-| Intern, UI/UX Designer  | FIS Global | Mississauga, ON | 2024-05-22 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/intern-ui-ux-designer-99575) | [Link](https://ca.indeed.com/viewjob?jk=8789c664a8dfa167&tk=1hu4nbnhmln1q800&from=serp&vjs=3) |
-| User Experience (UX) Design Intern  | Perceptronics Solutions | Fairfax, VA | 2024-05-22 | US | [Link](https://www.earlystagedesignjobs.com/jobs/user-experience-ux-design-intern-b58f4) | [Link](https://www.indeed.com/viewjob?jk=4edd059b1ca487d2&tk=1hu4turvdi5cl89c&from=serp&vjs=3) |
-| UI/UX Designer and Product Aesthetics Intern | Orlando O Spencer I  | Yuma, AZ | 2024-05-22 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-designer-and-product-aesthetics-intern-4c5d2) | [Link](https://www.indeed.com/viewjob?cmp=Orlando-O-Spencer-I,-Inc.&t=User%20Interface%20Designer&jk=ef38093468e7a488&) |
