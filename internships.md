@@ -4,6 +4,8 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| UI Designer Intern | OuterBox | Rochester, MN (On-site) | 2024-07-15 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ui-designer-intern-e3e84) | [Link](https://outerbox.bamboohr.com/careers/124) |
+| UI/UX Design Intern | Second Bind | North York, ON | 2024-07-15 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-design-intern-90456) | [Link](https://ca.indeed.com/viewjob?jk=16774de92324ad44&tk=1i2mll2cpi00j857&from=serp&vjs=3) |
 | Intern, Innovation Designer (Fall 2024) | Delta Air Lines | Atlanta, GA  | 2024-07-10 | US | [Link](https://www.earlystagedesignjobs.com/jobs/intern-innovation-designer-fall-2024) | [Link](https://www.indeed.com/viewjob?jk=be40836b87f22d45&tk=1i24ffco9n8hm80l&from=serp&vjs=3) |
 | UX/UI Intern | Hitachi Rail | Toronto, ON (Hybrid) | 2024-07-08 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-intern-ee270) | [Link](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/UX-UI-Intern_R1005626) |
 | Product Design Intern | TheGuarantors | New York, NY (On-site) | 2024-07-08 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-intern-ece87) | [Link](https://ats.rippling.com/theguarantors-open-positions/jobs/b7ddfd34-453d-47be-8424-2b58e41518a4?) |
@@ -31,5 +33,3 @@ Link: https://www.earlystagedesignjobs.com/
 | Graphic Design Internship | Prophet | New York, United States (On-site)  | 2024-05-27 | US | [Link](https://www.earlystagedesignjobs.com/jobs/graphic-design-internship-38a13) | [Link](https://prophet.com/careers/design-intern-2/?gh_jid=4344561005) |
 | UX/UI Design Co-op | Doctalk | Remote (Canada) | 2024-05-29 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-design-co-op-50ff8) | [Link](https://ca.indeed.com/viewjob?cmp=Doctalk&t=User%20Interface%20Designer&jk=d7410b8c6616de46&) |
 | (Volunteer) UI/UX Intern  | Boostability | Remote (US)  | 2024-05-27 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-intern-f617b) | [Link](https://www.linkedin.com/jobs/view/3920320129/) |
-| Product Design Intern | Philo | San Francisco, CA | 2024-05-27 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-intern-50232) | [Link](https://boards.greenhouse.io/philo/jobs/5988669) |
-| UI/UX Designer Intern (Part-time) | aSocial | Remote (Canada)  | 2024-05-20 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-designer-intern-part-time) | [Link](https://www.linkedin.com/jobs/view/3924074564) |
