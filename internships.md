@@ -4,6 +4,8 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |
 | --- | --- | --- | --- | --- | --- | --- |
+| UX/UI Design Intern  | FreshFind | Remote (Canada) | 2024-07-29 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-design-intern-3666d) | [Link](https://ca.indeed.com/viewjob?cmp=FreshFind&t=User%20Experience%20Design%20Intern&jk=ff36901f6e46ec05&) |
+| UI Designer Fall Co-op (Tech Start-up/Social Health) | Goodself | Toronto, ON | 2024-07-29 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ui-designer-fall-co-op-tech-start-up-social-health) | [Link](https://ca.indeed.com/viewjob?cmp=Goodself&t=User%20Interface%20Designer&jk=f51a0a69e56debc4&) |
 | UI Designer Intern | OuterBox | Rochester, MN (On-site) | 2024-07-15 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ui-designer-intern-e3e84) | [Link](https://outerbox.bamboohr.com/careers/124) |
 | UX Designer Intern (September - 8 months) | IBM | Markham, ON | 2024-07-17 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-designer-intern-september---8-months-d2503) | [Link](https://ca.indeed.com/viewjob?jk=f3502cd3ea7bb8cd&tk=1i2mlje4ogopi86u&from=serp&vjs=3) |
 | UX Researcher Intern | Saviynt | Atlanta, GA (Hybrid) | 2024-07-17 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-researcher-intern-165e6) | [Link](https://www.linkedin.com/jobs/view/3969559177/) |
@@ -32,4 +34,3 @@ Link: https://www.earlystagedesignjobs.com/
 | SAP iXp Intern - UX Designer [Vancouver]  | SAP | Vancouver, BC | 2024-06-10 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/sap-ixp-intern---ux-designer-vancouver) | [Link](https://ca.indeed.com/viewjob?jk=6ac6f05a4f378044&tk=1hvup25ntj5n3800&from=serp&vjs=3) |
 | UX Intern (Paid) | Rocket55 | Minneapolis, MN (On-site) | 2024-06-03 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-intern-paid) | [Link](https://dc1prodrecruiting.paylocity.com/Recruiting/Jobs/Details/2479343/Rocket-55-LLC?) |
 | UX Research- Internship (USA) | Line | Remote (US) | 2024-06-03 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-research--internship-usa-126c0) | [Link](https://wellfound.com/jobs/2620614-ux-research-internship-usa) |
-| UX Designer Co-Op- Technology Operations | CIBC | Toronto, ON  | 2024-06-05 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-designer-co-op--technology-operations) | [Link](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/UX-Designer-Co-Op--Technology-Operations_2412618?) |
