@@ -8,8 +8,8 @@ fulltime = open("fulltime.md", "w+", encoding="utf-8")
 all_files = [readme, internships, fulltime]
 
 esdj_link = "# Scraping Early Stage Design Jobs \n\nLink: https://www.earlystagedesignjobs.com/\n\n"
-chart_headers = "| Title | Company | Location | Date Added | Country | ESDJ Link | Job Link |\n"
-chart_break = "| --- | --- | --- | --- | --- | --- | --- |\n"
+chart_headers = "| Title | Company | Location | Date Added | Country | ESDJ Link |\n"
+chart_break = "| --- | --- | --- | --- | --- | --- |\n"
 
 # add chart markdown style to each file
 for f in all_files:
@@ -73,13 +73,12 @@ while page_num in range(6):
     
     def write_to_file(files, title, company, location, date_added, country, link, job_link):
         for file in files:
-            file.write(("| " + title + " ").replace("–","-"))
+            file.write((f"| [{title}]({job_link})").replace("–","-"))
             file.write("| " + company.text + " ")
             file.write(("| " + location.text + " ").replace("é","e"))
             file.write("| " + date_added.text + " ")
             file.write("| " + country.text + " ")
-            file.write("| [Link](https://www.earlystagedesignjobs.com" + link + ") ")
-            file.write("| [Link](" + job_link + ") |\n")
+            file.write("| [Link](https://www.earlystagedesignjobs.com" + link + ") | \n")
 
     # append the jobs to their respective files
     for v in unique_job_elements:
