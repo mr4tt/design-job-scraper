@@ -4,6 +4,7 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link |
 | --- | --- | --- | --- | --- | --- |
+| [Product Design Internship ](https://jobs.lever.co/sysdig/c5025c0f-4a81-4048-8c59-727fbf366cb4/)| Sysdig | San Francisco, CA (Hybrid) | 2024-07-31 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-internship-3b755) | 
 | [UX/UI Design Intern ](https://ca.indeed.com/viewjob?cmp=FreshFind&t=User%20Experience%20Design%20Intern&jk=ff36901f6e46ec05&)| FreshFind | Remote (Canada) | 2024-07-29 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-design-intern-3666d) | 
 | [UI Designer Fall Co-op (Tech Start-up/Social Health)](https://ca.indeed.com/viewjob?cmp=Goodself&t=User%20Interface%20Designer&jk=f51a0a69e56debc4&)| Goodself | Toronto, ON | 2024-07-29 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ui-designer-fall-co-op-tech-start-up-social-health) | 
 | [UI Designer Intern](https://outerbox.bamboohr.com/careers/124)| OuterBox | Rochester, MN (On-site) | 2024-07-15 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ui-designer-intern-e3e84) | 
@@ -32,5 +33,3 @@ Link: https://www.earlystagedesignjobs.com/
 | [UX designer intern](https://www.linkedin.com/jobs/view/3939888674/)| FlexShopper | Boca Raton, FL (On-site)  | 2024-06-12 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-designer-intern-cd178) | 
 | [Design Intern](https://www.linkedin.com/jobs/view/3938854080/)| MCD Partners | Chicago, IL (Remote) | 2024-06-12 | US | [Link](https://www.earlystagedesignjobs.com/jobs/design-intern-718c2) | 
 | [SAP iXp Intern - UX Designer [Vancouver] ](https://ca.indeed.com/viewjob?jk=6ac6f05a4f378044&tk=1hvup25ntj5n3800&from=serp&vjs=3)| SAP | Vancouver, BC | 2024-06-10 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/sap-ixp-intern---ux-designer-vancouver) | 
-| [UX Intern (Paid)](https://dc1prodrecruiting.paylocity.com/Recruiting/Jobs/Details/2479343/Rocket-55-LLC?)| Rocket55 | Minneapolis, MN (On-site) | 2024-06-03 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-intern-paid) | 
-| [UX Research- Internship (USA)](https://wellfound.com/jobs/2620614-ux-research-internship-usa)| Line | Remote (US) | 2024-06-03 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-research--internship-usa-126c0) | 
