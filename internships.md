@@ -4,6 +4,7 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link |
 | --- | --- | --- | --- | --- | --- |
+| [User Experience Intern](https://www.linkedin.com/jobs/view/3986102574)| Shades | Remote (US)  | 2024-08-05 | US | [Link](https://www.earlystagedesignjobs.com/jobs/user-experience-intern-8ffa9) | 
 | [Product Design Internship ](https://jobs.lever.co/sysdig/c5025c0f-4a81-4048-8c59-727fbf366cb4/)| Sysdig | San Francisco, CA (Hybrid) | 2024-07-31 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-internship-3b755) | 
 | [UX/UI Design Intern ](https://ca.indeed.com/viewjob?cmp=FreshFind&t=User%20Experience%20Design%20Intern&jk=ff36901f6e46ec05&)| FreshFind | Remote (Canada) | 2024-07-29 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-design-intern-3666d) | 
 | [UI Designer Fall Co-op (Tech Start-up/Social Health)](https://ca.indeed.com/viewjob?cmp=Goodself&t=User%20Interface%20Designer&jk=f51a0a69e56debc4&)| Goodself | Toronto, ON | 2024-07-29 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ui-designer-fall-co-op-tech-start-up-social-health) | 
@@ -32,4 +33,3 @@ Link: https://www.earlystagedesignjobs.com/
 | [User Experience Research Paid Intern- Remote](https://recruiting.ultipro.com/AER1003ARFL/JobBoard/8ac052e6-225b-46cd-8508-eb54bfdc4f3c/OpportunityDetail?opportunityId=4e396548-96f0-469f-9a40-1b8cc7b98597&)| Aeroflow Health | Carrollton, GA (Remote) | 2024-06-12 | US | [Link](https://www.earlystagedesignjobs.com/jobs/user-experience-research-paid-intern--remote) | 
 | [UX designer intern](https://www.linkedin.com/jobs/view/3939888674/)| FlexShopper | Boca Raton, FL (On-site)  | 2024-06-12 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-designer-intern-cd178) | 
 | [Design Intern](https://www.linkedin.com/jobs/view/3938854080/)| MCD Partners | Chicago, IL (Remote) | 2024-06-12 | US | [Link](https://www.earlystagedesignjobs.com/jobs/design-intern-718c2) | 
-| [SAP iXp Intern - UX Designer [Vancouver] ](https://ca.indeed.com/viewjob?jk=6ac6f05a4f378044&tk=1hvup25ntj5n3800&from=serp&vjs=3)| SAP | Vancouver, BC | 2024-06-10 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/sap-ixp-intern---ux-designer-vancouver) | 
