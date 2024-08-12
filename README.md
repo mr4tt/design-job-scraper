@@ -2,7 +2,7 @@
 
 Link: https://www.earlystagedesignjobs.com/
 
-Please check out [internships.md](https://github.com/mr4tt/scrape-esdj/blob/main/internships.md) for only internships, or [fulltime.md](https://github.com/mr4tt/scrape-esdj/blob/main/internships.md) for only full time positions.
+Please check out [internships.md](https://github.com/mr4tt/scrape-esdj/blob/main/internships.md) for only internships, or [fulltime.md](https://github.com/mr4tt/scrape-esdj/blob/main/fulltime.md) for only full time positions.
 
 | Title | Company | Location | Date Added | Country | ESDJ Link |
 | --- | --- | --- | --- | --- | --- |
