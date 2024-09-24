@@ -4,6 +4,8 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link |
 | --- | --- | --- | --- | --- | --- |
+| [User Experience (UX) Analyst](https://ca.indeed.com/viewjob?jk=5fcceaf5f2c30afc&tk=1i890fpgego6p88k&from=serp&vjs=3)| Northbridge Financial Corporation  | Toronto, ON | 2024-09-23 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/user-experience-ux-analyst) | 
+| [Junior UI Artist](https://aristocrat.wd3.myworkdayjobs.com/AristocratExternalCareersSite/job/Montreal-QC/Junior-UI-Artist_R0016578)| Product Madness 📱🎮  | Montreal, QC (Hybrid) | 2024-09-23 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/junior-ui-artist-955d9) | 
 | [UX/UI Specialist I](https://www.indeed.com/viewjob?jk=dd385186d5ff99f2&tk=1i4ccsdovj57j800&from=serp&vjs=3)| American National Family of Companies | Galveston, TX  | 2024-08-07 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-specialist-i) | 
 | [Product Designer](https://job-boards.greenhouse.io/hummingbirdregtech/jobs/5168377004)| Hummingbird | Remote (US)  | 2024-08-05 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-designer-ad103) | 
 | [Junior Visual Designer on site in DC or Dallas](https://jobs.lever.co/shieldai/f190a3b8-7cff-41a2-939c-384553a7d67f/)| Shield AI | Washington DC-Baltimore Area (On-site) | 2024-08-07 | US | [Link](https://www.earlystagedesignjobs.com/jobs/junior-visual-designer-on-site-in-dc-or-dallas) | 
@@ -97,10 +99,3 @@ Link: https://www.earlystagedesignjobs.com/
 | [Junior Designer](https://eastportholdings.hrmdirect.com/employment/job-opening.php?req=3107346#job)| Bluetext | Remote (US)  | 2024-06-24 | US | [Link](https://www.earlystagedesignjobs.com/jobs/junior-designer-3078e) | 
 | [UX Researcher ](https://www.teamworkonline.com/youth-sports-jobs/rcx-sports/rcx-sports-jobs/ux-researcher-2084492)| RCX Sports | Remote (US) | 2024-06-24 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-researcher-5e402) | 
 | [UX Designer (Part-Time)](https://www.linkedin.com/jobs/view/3953758090/)| Cypris | Remote (US) | 2024-06-24 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-designer-part-time) | 
-| [Graphic & Web Designer ](https://ca.indeed.com/viewjob?jk=f847af3c891940cb&)| ROAN Creative Agency | Kelowna, BC | 2024-06-26 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/graphic-web-designer-592e4) | 
-| [User Research Analyst](https://ca.indeed.com/viewjob?cmp=LawDepot.com&t=User%20Experience%20Researcher&jk=74757e7ccfcdb55c&)| LawDepot | Edmonton, AB | 2024-06-24 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/user-research-analyst-b4f04) | 
-| [Junior digital designer (18-month contract)](https://ca.indeed.com/viewjob?jk=132dfd72336cc677&tk=1i10mt5e9ijuj821&from=serp&vjs=3)| Best Buy | Vancouver, BC | 2024-06-24 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/junior-digital-designer-18-month-contract) | 
-| [UI/UX Designer](https://ca.indeed.com/viewjob?cmp=Thought-Cloud&t=User%20Interface%20Designer&jk=cbcedd61f31e3cb3&)| Thought Cloud | Remote (Canada) | 2024-06-24 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-designer-52a0b) | 
-| [Website Figma Graphic Designer](https://ca.indeed.com/viewjob?cmp=AA-Ltd.&t=Web%20Designer&jk=0df03a161a8ee9ef&)| Arkwell Agency | Remote (Canada) | 2024-06-17 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/website-figma-graphic-designer) | 
-| [Product Designer - Competitive](https://boards.greenhouse.io/hudl/jobs/6036805?source=LinkedIn)| Hudl | Austin, TX (Remote) | 2024-06-17 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-designer---competitive) | 
-| [Intermediate Product Designer ](https://www.linkedin.com/jobs/view/3943563880/)| Scrawlr | Vancouver, BC (Hybrid) | 2024-06-12 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/intermediate-product-designer-12443) | 
