@@ -4,7 +4,9 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link |
 | --- | --- | --- | --- | --- | --- |
+| [Visual/ Product Designer](https://lenme.com/visual-designer/)| Lenme | San Francisco Bay Area (Remote)  | 2024-09-25 | US | [Link](https://www.earlystagedesignjobs.com/jobs/visual-product-designer) | 
 | [User Experience (UX) Analyst](https://ca.indeed.com/viewjob?jk=5fcceaf5f2c30afc&tk=1i890fpgego6p88k&from=serp&vjs=3)| Northbridge Financial Corporation  | Toronto, ON | 2024-09-23 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/user-experience-ux-analyst) | 
+| [Visual Interaction Designer (Technical Specialist IV) ](https://ca.indeed.com/viewjob?jk=ec81483faef62537&tk=1i890had2it5r81d&from=serp&vjs=3)| University of Lethbridge | Lethbridge, AB | 2024-09-25 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/visual-interaction-designer-technical-specialist-iv) | 
 | [Junior UI Artist](https://aristocrat.wd3.myworkdayjobs.com/AristocratExternalCareersSite/job/Montreal-QC/Junior-UI-Artist_R0016578)| Product Madness 📱🎮  | Montreal, QC (Hybrid) | 2024-09-23 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/junior-ui-artist-955d9) | 
 | [UX/UI Specialist I](https://www.indeed.com/viewjob?jk=dd385186d5ff99f2&tk=1i4ccsdovj57j800&from=serp&vjs=3)| American National Family of Companies | Galveston, TX  | 2024-08-07 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-specialist-i) | 
 | [Product Designer](https://job-boards.greenhouse.io/hummingbirdregtech/jobs/5168377004)| Hummingbird | Remote (US)  | 2024-08-05 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-designer-ad103) | 
@@ -94,8 +96,3 @@ Link: https://www.earlystagedesignjobs.com/
 | [User Interface Designer](https://factset.wd1.myworkdayjobs.com/FactSetCareers/job/Norwalk-CT-USA/User-Interface-Designer_R24531)| FactSet | Boston, MA | 2024-06-26 | US | [Link](https://www.earlystagedesignjobs.com/jobs/user-interface-designer-57e44) | 
 | [Jr. UX Designer](https://pattern.wd1.myworkdayjobs.com/en-US/Pattern_Careers/job/Lehi-UT/Jr-UX-Designer_R-100845)| Pattern® | Lehi, UT (On-site) | 2024-06-26 | US | [Link](https://www.earlystagedesignjobs.com/jobs/jr-ux-designer-c8f8b) | 
 | [Designer I ](https://rakuten.wd1.myworkdayjobs.com/RakutenRewards/job/Toronto-Canada/Designer-I_1021915)| Rakuten Rewards | Toronto, ON (On-site) | 2024-06-24 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/designer-i-1cc62) | 
-| [Product Designer ](https://dc1prodrecruiting.paylocity.com/Recruiting/Jobs/Details/2527073/THE-HELPER-BEES-INC)| The Helper Bees | Austin, TX (Remote) | 2024-06-24 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-designer-29d84) | 
-| [Associate Product Designer ](https://ats.rippling.com/thriveglobal/jobs/591f2fe1-e55a-4c1e-a6d4-b248932e05fd?)| Thrive Global  | New York, NY (On-site) | 2024-06-24 | US | [Link](https://www.earlystagedesignjobs.com/jobs/associate-product-designer-5040f) | 
-| [Junior Designer](https://eastportholdings.hrmdirect.com/employment/job-opening.php?req=3107346#job)| Bluetext | Remote (US)  | 2024-06-24 | US | [Link](https://www.earlystagedesignjobs.com/jobs/junior-designer-3078e) | 
-| [UX Researcher ](https://www.teamworkonline.com/youth-sports-jobs/rcx-sports/rcx-sports-jobs/ux-researcher-2084492)| RCX Sports | Remote (US) | 2024-06-24 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-researcher-5e402) | 
-| [UX Designer (Part-Time)](https://www.linkedin.com/jobs/view/3953758090/)| Cypris | Remote (US) | 2024-06-24 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-designer-part-time) | 
