@@ -4,6 +4,9 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link |
 | --- | --- | --- | --- | --- | --- |
+| [Jr. UI/UX Designer](https://tinuiti.wd12.myworkdayjobs.com/Tinuiti/job/USA---Remote/Jr-UI-UX-Designer_R25_1)| Tinuiti | Remote | 02/18/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/jr-uiux-designer-tinuiti) | 
+| [Associate UX Designer](https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/San-Diego-CA-United-States/Associate-UX-Designer_JR_038372-1)| ResMed | San Diego, CA | 02/18/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/associate-ux-designer-resmed) | 
+| [2025 Full Time: Entry-Level UX Design](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2025-Full-Time--Entry-Level-UX-Design_R-2018259)| Walmart | Bentonville, AR | 02/18/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-designer-walmart) | 
 | [UX Designer](https://jobs.lever.co/klick/319b9916-0102-4fb0-a4a2-46be2a15869a/)| Klick Health | Toronto, ON | 02/18/2025 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-designer-klick-health) | 
 | [UX Designer](https://www.capitalonecareers.com/job/-/-/234/74848914144)| Capital One | McLean, VA | 02/18/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-designer-capital-one) | 
 | [UI/UX Designer](https://wellfound.com/jobs/3218599-ui-ux-designer-saas-platform)| MindCloud | Remote | 02/18/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-designer-mindcloud) | 
@@ -73,8 +76,3 @@ Link: https://www.earlystagedesignjobs.com/
 | [UI/UX Designer (12-Month Contract) ](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2bbb5acb-c086-4293-999b-e3b00d2c2fed&ccId=19000101_000001&jobId=485676&lang=en_CA&source=CC2)| Sunwing | Etobicoke, ON (On-site) | 2024-07-10 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-designer-12-month-contract) | 
 | [UI/UX Designer](https://ca.indeed.com/viewjob?jk=920ad24d1a9465d8&)| 9455-2352 Quebec | Montreal, QC | 2024-07-10 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-designer-ccc8d) | 
 | [Design and Product Analyst (Research) ](https://ca.indeed.com/viewjob?jk=fa1a4c51ee5894bc&tk=1i24e06v0i40g866&from=serp&vjs=3)| Scotiabank | Toronto, ON | 2024-07-10 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/design-and-product-analyst-research) | 
-| [Jr. UX Designer](https://jobs.lever.co/webfx/05aa0ddb-f4c8-46f1-95fb-f9d5c0ee40a7)| WebFX | Ann Arbor, MI (On-site)  | 2024-07-10 | US | [Link](https://www.earlystagedesignjobs.com/jobs/jr-ux-designer-2f408) | 
-| [Junior UX Designer ](https://ca.indeed.com/viewjob?jk=7bd3a88354ab501c&tk=1i24e06v0i40g866&from=serp&vjs=3)| Think Shift Advertising | Remote (Canada) | 2024-07-08 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/junior-ux-designer-8632b) | 
-| [Brand Designer](https://apply.workable.com/xe/j/BD182AEDC7/)| Ria Money Transfer | Denver, CO (Hybrid) | 2024-07-03 | US | [Link](https://www.earlystagedesignjobs.com/jobs/brand-designer-8e6ef) | 
-| [Associate UX/UI Designer, Core Math (Contract) ](https://amplify.wd1.myworkdayjobs.com/Amplify_Careers/job/Remote---United-States/Associate-UX-UI-Designer--Core-Math--Contract-_Req_11193)| Amplify | Remote (US) | 2024-07-03 | US | [Link](https://www.earlystagedesignjobs.com/jobs/associate-ux-ui-designer-core-math-contract) | 
-| [User Experience Designer I](https://careers.na.panasonic.com/careers/user-experience-designer-i?__jvst=Job%20Board&__jvsd=LinkedIn&nl=1)| Panasonic Avionics Corporation | Irvine, CA (On-site) | 2024-07-03 | US | [Link](https://www.earlystagedesignjobs.com/jobs/user-experience-designer-i) | 

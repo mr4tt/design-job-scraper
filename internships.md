@@ -4,6 +4,9 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link |
 | --- | --- | --- | --- | --- | --- |
+| [UX Design Intern](https://jobs.lever.co/zoox/b7efcf2b-c941-4ae0-a8ef-126cd89711ea/)| Zoox | Foster City, CA | 02/18/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-design-intern-zoox) | 
+| [UX Design Intern](https://careers.konicaminoltaus.com/careers-home/jobs/10837)| Konica Minolta | Ramsey, NJ | 02/18/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-design-intern-konica-minolta) | 
+| [Design Intern](https://app.dover.com/apply/smart-design-worldwide/2358b276-cf69-4c6b-927e-f6f833ef9610)| Smart Design | New York, NY | 02/18/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/design-intern-smart-design) | 
 | [UX Research Intern](https://jobs.lever.co/blinkux/113bb9e5-57fa-41fe-a3e1-4436d471f354)| Blink | Seattle, WA | 02/18/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-research-intern-blink) | 
 | [UX Design Intern](https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/San-Diego-CA-United-States/UX-Design-Intern_JR_039319)| ResMed | San Diego, CA | 02/18/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ux-design-intern-resmed) | 
 | [Brand Design Intern](https://job-boards.greenhouse.io/gemini/jobs/6616007)| Gemini | New York, NY | 02/18/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/brand-design-intern-gemini) | 
@@ -54,4 +57,3 @@ Link: https://www.earlystagedesignjobs.com/
 | [Intern, Innovation Designer (Fall 2024)](https://www.indeed.com/viewjob?jk=be40836b87f22d45&tk=1i24ffco9n8hm80l&from=serp&vjs=3)| Delta Air Lines | Atlanta, GA  | 2024-07-10 | US | [Link](https://www.earlystagedesignjobs.com/jobs/intern-innovation-designer-fall-2024) | 
 | [UX/UI Intern](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/UX-UI-Intern_R1005626)| Hitachi Rail | Toronto, ON (Hybrid) | 2024-07-08 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/ux-ui-intern-ee270) | 
 | [Product Design Intern](https://ats.rippling.com/theguarantors-open-positions/jobs/b7ddfd34-453d-47be-8424-2b58e41518a4?)| TheGuarantors | New York, NY (On-site) | 2024-07-08 | US | [Link](https://www.earlystagedesignjobs.com/jobs/product-design-intern-ece87) | 
-| [2024 Fall User Research Co-Op](https://boseallaboutme.wd1.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/XMLNAME-2024-Fall-User-Research-Co-Op_R26429?companyApplyUrl=%2526Source%253DLinkedIn)| Bose Corporation | Framingham, MA (On-site) | 2024-07-03 | US | [Link](https://www.earlystagedesignjobs.com/jobs/2024-fall-user-research-co-op) | 
