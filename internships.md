@@ -4,6 +4,15 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link |
 | --- | --- | --- | --- | --- | --- |
+| [Intern UX Writer SIPS](https://www.sofi.com/careers/sofi-university/?gh_jid=6491921003&gh_src=d50e8f9b3us)| SoFi | San Francisco, CA | 03/05/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/sofi-intern-ux-writer) | 
+| [Design Intern](https://jobs.lever.co/ideasunited/f58514e9-644a-4690-b9ba-bb9865b0208b/)| Ideas United | Atlanta, GA | 03/05/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ideas-united-design-intern) | 
+| [User Experience Design Co-Op](https://www.careersatfm.com/job/-/-/474/75059318672)| FM | Johnston, RI | 03/05/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/fm-user-experience-design-co-op) | 
+| [Summer Intern Design Operations](https://careers.siriusxm.com/careers/jobs/16459)| Pandora | New York, NY | 03/05/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/pandora-summer-intern-design-operations) | 
+| [2025 Summer Intern UX Design Research](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/7782433002)| Samsung Research America | Mountain View, CA | 03/05/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/samsung-research-america-ux-design-research-intern) | 
+| [Product Design Intern - Summer 2025](https://www.myrocketcareer.com/careers/r-078589/product-design-intern-summer-2025)| Rocket Mortgage | Detroit, MI | 03/05/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/rocket-mortgage-product-design-intern-summer-2025) | 
+| [Product Design Intern](https://boards.greenhouse.io/addepar1/jobs/7830861002?gh_src=31a4a9852)| Addepar | San Diego, CA | 03/05/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/addepar-product-design-intern) | 
+| [UX/UI Design Intern](https://www.linkedin.com/jobs/view/4162290938/)| Laura Canada | Laval, QC | 03/05/2025 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/laura-canada-uxui-design-intern) | 
+| [AOL Summer Design Intern](https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/AOL-Summer-Design-Intern_JR0025604)| Yahoo | Remote, United States | 03/05/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/yahoo-aol-summer-design-intern) | 
 | [Design Intern - Product Design](https://careers.rivianvw.tech/rivian-vw-group-technology/jobs/21718?lang=en-us&iis=LinkedIn&mode=apply)| Rivian and Volkswagen Group Technologies | Palo Alto, CA | 03/03/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/rivian-vw-product-design-intern) | 
 | [UI/UX Design Intern](https://jobs.jobvite.com/fingerpaint/job/orntvfww?__jvst=Job%20Board&__jvsd=LinkedIn)| Fingerpaint Group | Cedar Knolls, NJ | 03/03/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/fingerpaint-uiux-design-intern) | 
 | [Product Design Intern](https://job-boards.greenhouse.io/eulerity/jobs/4449153006?gh_src=7c10f1f96us)| Eulerity | New York City, NY | 03/03/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/eulerity-product-design-intern) | 
