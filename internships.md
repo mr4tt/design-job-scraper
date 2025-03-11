@@ -4,6 +4,15 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link |
 | --- | --- | --- | --- | --- | --- |
+| [UX UI Design Intern - 2025 Summer Internship](https://careers.healthfirst.org/careersmarketplace/PipelineDetail/14885?)| Healthfirst | New York, NY | 03/10/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/healthfirst-uxui-design-intern) | 
+| [Brand Design Intern](https://thredup.wd1.myworkdayjobs.com/en-US/thredup_Careers/job/Oakland-CA/Brand-Design-Intern_960-1?)| ThredUp | Oakland, CA | 03/10/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/thredup-brand-design-intern) | 
+| [UX Design Internship Summer 2025](https://career5.successfactors.eu/sfcareer/jobreqcareer?jobId=60673&company=C0001096615P)| Micro Systems Engineering Inc | Lake Oswego, OR | 03/10/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/micro-systems-engineering-ux-design-internship) | 
+| [Product Design Intern](https://job-boards.greenhouse.io/dialpad/jobs/7886011002?gh_src=7e75743e2us)| Dialpad | Austin, TX | 03/10/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/dialpad-product-design-intern) | 
+| [Product Design Intern](https://careers.carmax.com/us/en/job/JR-142816/Product-Design-Intern)| CARMAX INC | Richmond, VA | 03/10/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/carmax-product-design-intern) | 
+| [Product Design Intern - Summer 2025](https://job-boards.greenhouse.io/betterhelpcom/jobs/4569322008?)| BetterHelp | Remote, Mountain View, CA | 03/10/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/betterhelp-product-design-intern) | 
+| [SAP iXp Intern - User Experience Designer](https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-User-Experience-Designer-Vancouver-Brit-V6B-1A9/1177939301/)| SAP | Vancouver, BC | 03/10/2025 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/sap-user-experience-designer-intern) | 
+| [Product Design Intern](https://careers.spglobal.com/jobs/313265?)| S&P Global | New York, NY | 03/10/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/sp-global-product-design-intern) | 
+| [Co-op/Intern User Researcher - Summer 2025](https://careers.hootsuite.com/job/?gh_jid=6678768)| Hootsuite | Toronto, ON | 03/10/2025 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/hootsuite-user-researcher-intern) | 
 | [Intern UX Writer SIPS](https://www.sofi.com/careers/sofi-university/?gh_jid=6491921003&gh_src=d50e8f9b3us)| SoFi | San Francisco, CA | 03/05/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/sofi-intern-ux-writer) | 
 | [Design Intern](https://jobs.lever.co/ideasunited/f58514e9-644a-4690-b9ba-bb9865b0208b/)| Ideas United | Atlanta, GA | 03/05/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/ideas-united-design-intern) | 
 | [User Experience Design Co-Op](https://www.careersatfm.com/job/-/-/474/75059318672)| FM | Johnston, RI | 03/05/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/fm-user-experience-design-co-op) | 
