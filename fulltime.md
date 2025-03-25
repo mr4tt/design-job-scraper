@@ -4,6 +4,7 @@ Link: https://www.earlystagedesignjobs.com/
 
 | Title | Company | Location | Date Added | Country | ESDJ Link |
 | --- | --- | --- | --- | --- | --- |
+| [UI/UX Designer](https://www.earlystagedesignjobs.com/jobs/ui-ux-designer-levanta)| Levanta Labs | Remote (Canada)  | 03/20/2025 | Canada  | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-designer-levanta) | 
 | [Associate Product Designer](https://job-boards.greenhouse.io/mochihealth/jobs/4524529008)| Mochi Health | San Francisco, CA | 03/12/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/mochi-health-associate-product-designer) | 
 | [Product Designer](https://www.linkedin.com/jobs/view/4175710731)| Pantheon | Remote, Canada | 03/10/2025 | Canada | [Link](https://www.earlystagedesignjobs.com/jobs/pantheon-product-designer) | 
 | [Junior UX/UI Designer](https://wellfound.com/jobs/2592103-junior-ux-ui-designer)| Laasie | Remote, US | 03/10/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/laasie-junior-uxui-designer) | 

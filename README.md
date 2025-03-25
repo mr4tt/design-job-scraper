@@ -6,6 +6,7 @@ Please check out [internships.md](https://github.com/mr4tt/scrape-esdj/blob/main
 
 | Title | Company | Location | Date Added | Country | ESDJ Link |
 | --- | --- | --- | --- | --- | --- |
+| [UI/UX Designer](https://www.earlystagedesignjobs.com/jobs/ui-ux-designer-levanta)| Levanta Labs | Remote (Canada)  | 03/20/2025 | Canada  | [Link](https://www.earlystagedesignjobs.com/jobs/ui-ux-designer-levanta) | 
 | [UX Researcher - Emerging Talent Intern (July 2025 - December 2025)](https://careers.servicenow.com/jobs/744000046471434/ux-researcher-emerging-talent-intern-july-2025-december-2025/)| ServiceNow | San Diego, CA | 03/12/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/servicenow-ux-researcher-emerging-talent-intern) | 
 | [UX/UI Web Design Intern](https://jobs.thyssenkrupp.com/en/job/UX-UI-Web-Design-Intern?id=JR102605)| thyssenkrupp Materials NA | Southfield, MI | 03/12/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/thyssenkrupp-materials-uxui-web-design-intern) | 
 | [Product Designer - Intern](https://careers.datadoghq.com/detail/6182795/?gh_jid=6182795&)| Datadog | New York, NY | 03/12/2025 | US | [Link](https://www.earlystagedesignjobs.com/jobs/datadog-product-designer-intern) | 
