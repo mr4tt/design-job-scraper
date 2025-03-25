@@ -38,7 +38,7 @@ while page_num in range(6):
     jobs = results.find_all(
         "div", 
         class_="caption1-3 captiongrey", 
-        )
+    )
 
     # grabs the grandparents of caption1-3 so we can loop thru properly
     job_elements = [x.parent.parent.parent.parent for x in jobs]
@@ -70,11 +70,14 @@ while page_num in range(6):
 
         job_link = soup2.find("a",{"class":"button gotojobbutton w-button"})
 
-        return "No job link found" if not job_link else job_link.get("href")
+        return None if not job_link else job_link.get("href")
     
     def write_to_file(files, title, company, location, date_added, country, link, job_link):
         for file in files:
-            file.write((f"| [{title}]({job_link})").replace("–","-"))
+            if job_link:
+                file.write((f"| [{title}]({job_link})").replace("–","-"))
+            else: 
+                file.write((f"| [{title}](https://www.earlystagedesignjobs.com{link})").replace("–","-"))
             file.write("| " + company.text + " ")
             file.write(("| " + location.text + " ").replace("é","e"))
             file.write("| " + date_added.text + " ")
