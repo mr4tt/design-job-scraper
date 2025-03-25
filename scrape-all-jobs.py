@@ -68,8 +68,9 @@ while page_num in range(6):
         # for x in links:
         #     print(x.find("a")["href"])
 
-        # returns the job link 
-        return soup2.find("a",{"class":"button gotojobbutton w-button"}).get("href")
+        job_link = soup2.find("a",{"class":"button gotojobbutton w-button"})
+
+        return "No job link found" if not job_link else job_link.get("href")
     
     def write_to_file(files, title, company, location, date_added, country, link, job_link):
         for file in files:
